@@ -4,7 +4,8 @@
                 "tema":"A",
                 "Titulo":"Tema 1A", 
                 "video": "https://i.imgur.com/IUypBE2.mp4", 
-                "miniatura": "https://as.com/meristation/imagenes/2020/06/11/guia_pagina/1591874921_916349_1591875416_noticia_normal.jpg"
+                "miniatura": "https://as.com/meristation/imagenes/2020/06/11/guia_pagina/1591874921_916349_1591875416_noticia_normal.jpg",
+                "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed interdum fringilla condimentum. Maecenas blandit urna et nulla ullamcorper, quis efficitur tellus ultrices. Praesent eu consectetur metus, in vestibulum diam. Curabitur et magna ex. Nullam quam eros, auctor in maximus a, imperdiet suscipit neque. Interdum et malesuada fames ac ante ipsum primis in faucibus. In ac diam et libero pretium cursus. Aenean maximus tellus vulputate vehicula volutpat. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla gravida mi et lorem ultrices congue. Sed semper tellus eget ligula aliquam congue. Sed odio purus, fringilla placerat efficitur ut, ultrices luctus sapien."
             },
             { 
                 "tema":"A",
@@ -22,7 +23,8 @@
                 "tema":"B",
                 "Titulo":"Tema 1B", 
                 "video": "https://i.imgur.com/58e0U8L.mp4", 
-                "miniatura": "https://esports.eldesmarque.com/wp-content/uploads/2020/06/Ascent-2.jpg"
+                "miniatura": "https://esports.eldesmarque.com/wp-content/uploads/2020/06/Ascent-2.jpg",
+                 "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed interdum fringilla condimentum. Maecenas blandit urna et nulla ullamcorper, quis efficitur tellus ultrices. Praesent eu consectetur metus, in vestibulum diam. Curabitur et magna ex. Nullam quam eros, auctor in maximus a, imperdiet suscipit neque. Interdum et malesuada fames ac ante ipsum primis in faucibus. In ac diam et libero pretium cursus. Aenean maximus tellus vulputate vehicula volutpat. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla gravida mi et lorem ultrices congue. Sed semper tellus eget ligula aliquam congue. Sed odio purus, fringilla placerat efficitur ut, ultrices luctus sapien."
             },
             { 
                 "tema":"B",
@@ -41,7 +43,8 @@
                 "tema":"C",
                 "Titulo":"Tema 1C", 
                 "video": "https://i.imgur.com/QnbosXZ.mp4", 
-                "miniatura": "https://sasa-info.com/wp-content/uploads/2020/07/7fbb69af6d081f7edb6f5a4d481e1ab0.png"
+                "miniatura": "https://sasa-info.com/wp-content/uploads/2020/07/7fbb69af6d081f7edb6f5a4d481e1ab0.png",
+                 "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed interdum fringilla condimentum. Maecenas blandit urna et nulla ullamcorper, quis efficitur tellus ultrices. Praesent eu consectetur metus, in vestibulum diam. Curabitur et magna ex. Nullam quam eros, auctor in maximus a, imperdiet suscipit neque. Interdum et malesuada fames ac ante ipsum primis in faucibus. In ac diam et libero pretium cursus. Aenean maximus tellus vulputate vehicula volutpat. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla gravida mi et lorem ultrices congue. Sed semper tellus eget ligula aliquam congue. Sed odio purus, fringilla placerat efficitur ut, ultrices luctus sapien."
             },
             { 
                 "tema":"C",
@@ -59,7 +62,8 @@
                 "tema":"D",
                 "Titulo":"Tema 1D", 
                 "video": "https://v.redd.it/1dj907zodft61/DASH_720.mp4", 
-                "miniatura": "https://pbs.twimg.com/media/EkOc8gqWoAYeXOz.jpg:large"                
+                "miniatura": "https://pbs.twimg.com/media/EkOc8gqWoAYeXOz.jpg:large",
+                 "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed interdum fringilla condimentum. Maecenas blandit urna et nulla ullamcorper, quis efficitur tellus ultrices. Praesent eu consectetur metus, in vestibulum diam. Curabitur et magna ex. Nullam quam eros, auctor in maximus a, imperdiet suscipit neque. Interdum et malesuada fames ac ante ipsum primis in faucibus. In ac diam et libero pretium cursus. Aenean maximus tellus vulputate vehicula volutpat. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla gravida mi et lorem ultrices congue. Sed semper tellus eget ligula aliquam congue. Sed odio purus, fringilla placerat efficitur ut, ultrices luctus sapien."
             },
             { 
                 "tema":"D",
