@@ -22,7 +22,7 @@
                 "tema":"B",
                 "Titulo":"Tema 1B", 
                 "video": "https://i.imgur.com/58e0U8L.mp4", 
-                "miniatura": "https://esports.eldesmarque.com/wp-content/uploads/2020/06/Ascent-2.jpg",                
+                "miniatura": "https://esports.eldesmarque.com/wp-content/uploads/2020/06/Ascent-2.jpg"               
             },
             { 
                 "tema":"B",
@@ -35,8 +35,7 @@
                 "Titulo":"Tema 3B", 
                 "video": "https://i.imgur.com/lgVbV92.mp4", 
                 "miniatura": "https://esports.eldesmarque.com/wp-content/uploads/2020/06/Ascent-2.jpg"
-            },
-        
+            },  
             { 
                 "tema":"C",
                 "Titulo":"Tema 1C", 
