@@ -1,0 +1,77 @@
+{
+    "videos": [
+            { 
+                "tema":"A1",
+                "Titulo":"Tema 1AQ", 
+                "video": "https://i.imgur.com/IUypBE2.mp4", 
+                "miniatura": "https://as.com/meristation/imagenes/2020/06/11/guia_pagina/1591874921_916349_1591875416_noticia_normal.jpg"
+            },
+            { 
+                "tema":"A1",
+                "Titulo":"Tema 2AQ", 
+                "video": "https://i.imgur.com/hv9Sv3v.mp4", 
+                "miniatura": "https://as.com/meristation/imagenes/2020/06/11/guia_pagina/1591874921_916349_1591875416_noticia_normal.jpg"
+            },
+            { 
+                "tema":"A1",
+                "Titulo":"Tema 3AQ", 
+                "video": "https://v.redd.it/7tr9l9crdbj51/DASH_720.mp4", 
+                "miniatura": "https://as.com/meristation/imagenes/2020/06/11/guia_pagina/1591874921_916349_1591875416_noticia_normal.jpg"
+            },
+            { 
+                "tema":"B1",
+                "Titulo":"Tema 1Q", 
+                "video": "https://i.imgur.com/IUypBE2.mp4", 
+                "miniatura": "https://pbs.twimg.com/media/EkOc8gqWoAYeXOz.jpg:large"
+            },
+            { 
+                "tema":"B1",
+                "Titulo":"Tema 2Q", 
+                "video": "https://i.imgur.com/hv9Sv3v.mp4", 
+                "miniatura": "https://pbs.twimg.com/media/EkOc8gqWoAYeXOz.jpg:large"
+            },
+            { 
+                "tema":"B1",
+                "Titulo":"Tema 3Q", 
+                "video": "https://v.redd.it/7tr9l9crdbj51/DASH_720.mp4", 
+                "miniatura": "https://pbs.twimg.com/media/EkOc8gqWoAYeXOz.jpg:large"
+            },
+        
+            { 
+                "tema":"C1",
+                "Titulo":"Tema 1Q", 
+                "video": "https://i.imgur.com/IUypBE2.mp4", 
+                "miniatura": "https://sasa-info.com/wp-content/uploads/2020/07/7fbb69af6d081f7edb6f5a4d481e1ab0.png"
+            },
+            { 
+                "tema":"C1",
+                "Titulo":"Tema 2Q", 
+                "video": "https://i.imgur.com/hv9Sv3v.mp4", 
+                "miniatura": "https://sasa-info.com/wp-content/uploads/2020/07/7fbb69af6d081f7edb6f5a4d481e1ab0.png"
+            },
+            { 
+                "tema":"C1",
+                "Titulo":"Tema 3Q", 
+                "video": "https://v.redd.it/7tr9l9crdbj51/DASH_720.mp4", 
+                "miniatura": "https://sasa-info.com/wp-content/uploads/2020/07/7fbb69af6d081f7edb6f5a4d481e1ab0.png"
+            },
+            { 
+                "tema":"D1",
+                "Titulo":"Tema 1Q", 
+                "video": "https://i.imgur.com/IUypBE2.mp4", 
+                "miniatura": "https://esports.eldesmarque.com/wp-content/uploads/2020/06/Ascent-2.jpg"
+            },
+            { 
+                "tema":"D1",
+                "Titulo":"Tema 2Q", 
+                "video": "https://i.imgur.com/hv9Sv3v.mp4", 
+                "miniatura": "https://esports.eldesmarque.com/wp-content/uploads/2020/06/Ascent-2.jpg"
+            },
+            { 
+                "tema":"D1",
+                "Titulo":"Tema 3Q", 
+                "video": "https://v.redd.it/7tr9l9crdbj51/DASH_720.mp4", 
+                "miniatura": "https://as.com/meristation/imagenes/2020/06/11/guia_pagina/1591874921_916349_1591875416_noticia_normal.jpg"
+            }
+        ]
+}
