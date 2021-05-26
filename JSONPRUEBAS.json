@@ -1,0 +1,155 @@
+{
+    "id": 1,
+    "nombre": "UPCT",
+    "urldirecto": "URL DIRECTO",
+    "directo": 1,
+    "carpeta": {
+        "id": 62,
+        "nombre": "Centro de Producción de Contenidos Digitales (CPCD)",
+        "hijos": [
+            {
+                "id": 219,
+                "nombre": "RÉTAME Y APRENDO",
+                "hijos": [],
+                "videos": [
+                    {
+                        "id": 2202,
+                        "title": "Rétame y Aprendo 2018 Sorteo Pulsera Actividad desde IES Juan Carlos I Murcia",
+                        "file": "URL prueba",
+                        "image": "URL imagen"
+                    },
+                    {
+                        "id": 1520,
+                        "title": "Rétame y Aprendo Testimonios",
+                        "file": "URL prueba",
+                        "image": "URL imagen"
+                    },
+                    {
+                        "id": 1119,
+                        "title": "Rétame y Aprendo: Resumen",
+                          "file": "URL prueba",
+                        "image": "URL imagen"
+                    },
+                    {
+                        "id": 1118,
+                        "title": "Clausura",
+                          "file": "URL prueba",
+                        "image": "URL imagen"
+                    },
+                    {
+                        "id": 1117,
+                        "title": "Entrega de premios",
+                        "file": "URL prueba",
+                        "image": "URL imagen"
+                    },
+                    {
+                        "id": 1116,
+                        "title": "Gran Final General BACH",
+                          "file": "URL prueba",
+                        "image": "URL imagen"
+                    },
+                    {
+                        "id": 1115,
+                        "title": "Gran Final General ESO",
+                        "file": "URL prueba",
+                        "image": "URL imagen"
+                    },
+                    {
+                        "id": 1114,
+                        "title": "Final Inglés",
+                         "file": "URL prueba",
+                        "image": "URL imagen"
+                    },
+                    {
+                        "id": 1113,
+                        "title": "Final Biología",
+                          "file": "URL prueba",
+                        "image": "URL imagen"
+                    },
+                    {
+                        "id": 1112,
+                        "title": "Final Tecnología",
+                          "file": "URL prueba",
+                        "image": "URL imagen"
+                    }
+                ],
+                "name": "RÉTAME Y APRENDO"
+            },
+            {
+                "id": 315,
+                "nombre": "Bloopbusters",
+                "hijos": [],
+                "videos": [
+                    {
+                        "id": 2138,
+                        "title": "Bloopbusters_Juan Francisco Sánchez",
+                         "file": "URL prueba",
+                        "image": "URL imagen"
+                    },
+                    {
+                        "id": 2137,
+                        "title": "Bloopbusters_José Víctor Rodríguez",
+                         "file": "URL prueba",
+                        "image": "URL imagen"
+                    },
+                    {
+                        "id": 2136,
+                        "title": "Bloopbusters_Enrique Castro",
+                         "file": "URL prueba",
+                        "image": "URL imagen"
+                    },
+                    {
+                        "id": 541,
+                        "title": "UPCT-Bloopbusters",
+                         "file": "URL prueba",
+                        "image": "URL imagen"
+                    }
+                ],
+                "name": "Bloopbusters"
+            },
+            {
+                "id": 523,
+                "nombre": "BACH CARTAGENA 2019",
+                "hijos": [],
+                "videos": [
+                    {
+                        "id": 4005,
+                        "title": "Cantata Participativa. Iglesia de la Caridad. Bach y Buxtehude Bach Cartagena",
+                         "file": "URL prueba",
+                        "image": "URL imagen"
+                    },
+                    {
+                        "id": 4004,
+                        "title": "Concierto de apertura: L´Apothéose. Bach Cartagena",
+                         "file": "URL prueba",
+                        "image": "URL imagen"
+                    }
+                ],
+                "name": "BACH CARTAGENA 2019"
+            },
+            {
+                "id": 548,
+                "nombre": "EBAU 2019",
+                "hijos": [],
+                "videos": [
+                    {
+                        "id": 4304,
+                        "title": "Consejos sobre la EBAU",
+                         "file": "URL prueba",
+                        "image": "URL imagen"
+                    },
+                    {
+                        "id": 4301,
+                        "title": "Funcionamiento de la EBAU",
+                        "file": "URL prueba",
+                        "image": "URL imagen"
+                    }
+                ],
+                "name": "EBAU 2019"
+            }
+        ],
+        "videos": [],
+        "name": "Centro de Producción de Contenidos Digitales (CPCD)"
+    },
+    "privado": 0
+}
