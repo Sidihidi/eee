@@ -146,6 +146,26 @@
                     }
                 ],
                 "name": "EBAU 2019"
+            },
+            {
+                "id": 568,
+                "nombre": "EBAU 2020",
+                "hijos": [],
+                "videos": [
+                    {
+                        "id": 4304,
+                        "title": "Consejos sobre la EBAU 2020",
+                         "file": "https://i.imgur.com/hv9Sv3v.mp4",
+                        "image": "https://as.com/meristation/imagenes/2020/06/11/guia_pagina/1591874921_916349_1591875416_noticia_normal.jpg"
+                    },
+                    {
+                        "id": 4301,
+                        "title": "Funcionamiento de la EBAU 2020",
+                        "file": "https://i.imgur.com/hv9Sv3v.mp4",
+                        "image": "https://as.com/meristation/imagenes/2020/06/11/guia_pagina/1591874921_916349_1591875416_noticia_normal.jpg"
+                    }
+                ],
+                "name": "EBAU 2020"
             }
         ],
         "videos": [],
