@@ -1,0 +1,24 @@
+{
+    "imagenes": [
+            { 
+                "desk":"https://raw.githubusercontent.com/Sidihidi/eee/main/etsia.jpg",
+                "movil":"https://raw.githubusercontent.com/Sidihidi/eee/main/etsia_movil.jpg"
+            },
+            { 
+                "desk":"https://raw.githubusercontent.com/Sidihidi/eee/main/etsii.jpg",
+                "movil":"https://raw.githubusercontent.com/Sidihidi/eee/main/etsii_movil.jpg"
+            },{ 
+                "desk":"https://raw.githubusercontent.com/Sidihidi/eee/main/etsino.jpg",
+                "movil":"https://raw.githubusercontent.com/Sidihidi/eee/main/etsino_movil.jpg"
+            },{ 
+                "desk":"https://raw.githubusercontent.com/Sidihidi/eee/main/etsit.jpg",
+                "movil":"https://raw.githubusercontent.com/Sidihidi/eee/main/etsit_movil.jpg"
+            },{ 
+                "desk":"https://raw.githubusercontent.com/Sidihidi/eee/main/fce.jpg",
+                "movil":"https://raw.githubusercontent.com/Sidihidi/eee/main/fce_movil.jpg"
+            },{ 
+                "desk":"https://raw.githubusercontent.com/Sidihidi/eee/main/etsae.jpg",
+                "movil":"https://raw.githubusercontent.com/Sidihidi/eee/main/etsae_movil.jpg"
+            }
+        ]
+}
