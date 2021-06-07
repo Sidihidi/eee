@@ -1,0 +1,21 @@
+{
+    "forma": [
+            { 
+                "url":"https://raw.githubusercontent.com/Sidihidi/eee/main/audios.json",
+                "categoria":"",               
+                "titulo":"PODCAST 1",
+                "miniatura":"https://multimediarepository.blob.core.windows.net/imagecontainer/112d084180374eadb66fb8c76ae48252.jpg"
+            },
+            { 
+                "url":"https://raw.githubusercontent.com/Sidihidi/eee/main/audios1.json",
+                "categoria":"",
+                "titulo":"PODCAST 2",
+                "miniatura":"https://multimediarepository.blob.core.windows.net/imagecontainer/e3e52362c2c844fa837f571a39bff886.jpg"
+            },{ 
+                "url":"https://raw.githubusercontent.com/Sidihidi/eee/main/audios2.json",
+                "categoria":"",
+                "titulo":"PODCAST 3",
+                "miniatura":"https://multimediarepository.blob.core.windows.net/imagecontainer/3de52e7b30034c408a7ed704cc9e9fab.jpg"
+            }
+        ]
+}
