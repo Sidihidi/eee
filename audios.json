@@ -4,18 +4,18 @@
                 "url":"https://s3.amazonaws.com/scifri-episodes/scifri20181123-episode.mp3",
                 "autor":"Juan Manuel Alonso",
                 "titulo":"Audio 1",
-                "miniatura":"https://media.wnyc.org/i/1400/1400/l/80/1/ScienceFriday_WNYCStudios_1400.jpg"
+                "miniatura":"https://repositorio.upct.es/themes/Mirage2/images/upct/comunidades/institucional.png"
             },
             { 
                 "url":"https://s3.amazonaws.com/scifri-episodes/scifri20181123-episode.mp3",
                 "autor":"Juan Manuel Alonso",
-                "titulo":"audio 2",
-                "miniatura":"https://media.wnyc.org/i/1400/1400/l/80/1/ScienceFriday_WNYCStudios_1400.jpg"
+                "titulo":"Audio 2",
+                "miniatura":"https://repositorio.upct.es/themes/Mirage2/images/upct/comunidades/institucional.png"
             },{ 
                 "url":"https://s3.amazonaws.com/scifri-episodes/scifri20181123-episode.mp3",
                 "autor":"Juan Manuel Alonso",
-                "titulo":"audio 3",
-                "miniatura":"https://media.wnyc.org/i/1400/1400/l/80/1/ScienceFriday_WNYCStudios_1400.jpg"
+                "titulo":"Audio 3",
+                "miniatura":"https://repositorio.upct.es/themes/Mirage2/images/upct/comunidades/institucional.png"
             }
         ]
 }
