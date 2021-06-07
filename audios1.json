@@ -1,0 +1,40 @@
+{
+    "audios": [
+            { 
+                "url":"https://s3.amazonaws.com/scifri-episodes/scifri20181123-episode.mp3",
+                "autor":"Juan Manuel",
+                "titulo":"Audio A",
+                "miniatura":"https://repositorio.upct.es/themes/Mirage2/images/upct/comunidades/institucional.png"
+            },
+            { 
+                "url":"https://s3.amazonaws.com/scifri-episodes/scifri20181123-episode.mp3",
+                "autor":"Juan Manuel ",
+                "titulo":"Audio B",
+                "miniatura":"https://repositorio.upct.es/themes/Mirage2/images/upct/comunidades/institucional.png"
+            },
+            { 
+                "url":"https://s3.amazonaws.com/scifri-episodes/scifri20181123-episode.mp3",
+                "autor":"Juan Manuel ",
+                "titulo":"Audio C",
+                "miniatura":"https://repositorio.upct.es/themes/Mirage2/images/upct/comunidades/institucional.png"
+            },
+            { 
+                "url":"https://s3.amazonaws.com/scifri-episodes/scifri20181123-episode.mp3",
+                "autor":"Juan Manuel ",
+                "titulo":"Audio E",
+                "miniatura":"https://repositorio.upct.es/themes/Mirage2/images/upct/comunidades/institucional.png"
+            },
+            { 
+                "url":"https://s3.amazonaws.com/scifri-episodes/scifri20181123-episode.mp3",
+                "autor":"Juan Manuel ",
+                "titulo":"Audio F",
+                "miniatura":"https://repositorio.upct.es/themes/Mirage2/images/upct/comunidades/institucional.png"
+            },
+            { 
+                "url":"https://s3.amazonaws.com/scifri-episodes/scifri20181123-episode.mp3",
+                "autor":"Juan Manuel ",
+                "titulo":"Audio G",
+                "miniatura":"https://repositorio.upct.es/themes/Mirage2/images/upct/comunidades/institucional.png"
+            }
+        ]
+}
