@@ -1,0 +1,21 @@
+{
+    "forma": [
+            { 
+                "url":"https://opencontent.upct.es/198dc1b9fd0e405e9d0482ba5c5a98fb/8bb91749e43a40f3882647fa8f6a2c15/",
+                "categoria":"Lengua Inglesa",
+                "titulo":"REPORTED SPEECH",
+                "miniatura":"https://multimediarepository.blob.core.windows.net/imagecontainer/112d084180374eadb66fb8c76ae48252.jpg"
+            },
+            { 
+                "url":"https://opencontent.upct.es/149176215c144e8fb9524e3b5838d7ac/933ee6ab29404168ac497b4ce762a701/",
+                "categoria":"Desarrollo Individual",
+                "titulo":"ΜΕΤΡΗΣΗ ΤΟΥ ΧΡΟΝΟΥ...1",
+                "miniatura":"https://multimediarepository.blob.core.windows.net/imagecontainer/e3e52362c2c844fa837f571a39bff886.jpg"
+            },{ 
+                "url":"https://opencontent.upct.es/c2752d89aa504063b720abd64953136c/f8cc68e65d7c4e64af10b76b30d726b2/",
+                "caregoria":"Desarrollo Individual",
+                "titulo":"Easter Customs",
+                "miniatura":"https://multimediarepository.blob.core.windows.net/imagecontainer/3de52e7b30034c408a7ed704cc9e9fab.jpg"
+            }
+        ]
+}
