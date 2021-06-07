@@ -1,0 +1,40 @@
+{
+    "audios": [
+            { 
+                "url":"https://s3.amazonaws.com/scifri-episodes/scifri20181123-episode.mp3",
+                "autor":"Juan Manuel Alonso",
+                "titulo":"Audio 1",
+                "miniatura":"https://pbs.twimg.com/profile_images/519234774049640448/EUWePlHm_400x400.png"
+            },
+            { 
+                "url":"https://s3.amazonaws.com/scifri-episodes/scifri20181123-episode.mp3",
+                "autor":"Juan Manuel Alonso",
+                "titulo":"Audio 2",
+                "miniatura":"https://pbs.twimg.com/profile_images/519234774049640448/EUWePlHm_400x400.png"
+            },
+            { 
+                "url":"https://s3.amazonaws.com/scifri-episodes/scifri20181123-episode.mp3",
+                "autor":"Juan Manuel Alonso",
+                "titulo":"Audio 3",
+                "miniatura":"https://pbs.twimg.com/profile_images/519234774049640448/EUWePlHm_400x400.png"
+            },
+            { 
+                "url":"https://s3.amazonaws.com/scifri-episodes/scifri20181123-episode.mp3",
+                "autor":"Juan Manuel Alonso",
+                "titulo":"Audio 4",
+                "miniatura":"https://pbs.twimg.com/profile_images/519234774049640448/EUWePlHm_400x400.png"
+            },
+            { 
+                "url":"https://s3.amazonaws.com/scifri-episodes/scifri20181123-episode.mp3",
+                "autor":"Juan Manuel Alonso",
+                "titulo":"Audio 5",
+                "miniatura":"https://pbs.twimg.com/profile_images/519234774049640448/EUWePlHm_400x400.png"
+            },
+            { 
+                "url":"https://s3.amazonaws.com/scifri-episodes/scifri20181123-episode.mp3",
+                "autor":"Juan Manuel Alonso",
+                "titulo":"Audio 6",
+                "miniatura":"https://pbs.twimg.com/profile_images/519234774049640448/EUWePlHm_400x400.png"
+            }
+        ]
+}
