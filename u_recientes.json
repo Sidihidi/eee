@@ -1,21 +1,21 @@
 {
     "forma": [
             { 
-                "url":"https://opencontent.upct.es/b1820d3e860f4771a889bec039fedbb5/2a75bae25fba43f8b49be4b0e31605c9/",
-                "categoria":"Fisica",
-                "titulo":"ΑΠΛΟ 'Η ΜΑΘΗΜΑΤΙΚΟ ΕΚΚΡΕΜΕΣ",
-                "miniatura":"https://multimediarepository.blob.core.windows.net/imagecontainer/442e3f8e48214d018d4e46b5789417a3.jpg"
+                "url":"https://opencontent.upct.es/8156d2256fce4a6abdeeb6880bba32a4/c19b4fb151a6471cb6d5a2c8204256e9/",
+                "categoria":"Lenguaje De Programación",
+                "titulo":"Clases con JavaScript ES6",
+                "miniatura":"https://multimediarepository.blob.core.windows.net/imagecontainer/dd749ec9f02446a48a2c6936efbb7354.png"
             },
             { 
-                "url":"https://opencontent.upct.es/b1820d3e860f4771a889bec039fedbb5/5b6cb0e91d774365a6046e7bff39790d/",
-                "categoria":"Fisica",
-                "titulo":"ΘΕΜΑΤΑ ΕΠΑΝΑΛΗΨΗΣ (I) Β ΛΥΚΕΙΟΥ ΚΑΤΕΥΘΥΝΣΗΣ",
-                "miniatura":"https://multimediarepository.blob.core.windows.net/imagecontainer/f9088eb63bd94f56aac34dc22af07289.jpg"
+                "url":"https://opencontent.upct.es/8156d2256fce4a6abdeeb6880bba32a4/8d87353f884a470a976444fa790bdca1/",
+                "categoria":"Lenguaje De Programación",
+                "titulo":"JavaScript Array",
+                "miniatura":"miniatura":"https://multimediarepository.blob.core.windows.net/imagecontainer/dd749ec9f02446a48a2c6936efbb7354.png"
             },{ 
-                "url":"https://opencontent.upct.es/b1820d3e860f4771a889bec039fedbb5/96bc0977fdf949fd9d4554dcc8c2d6bb/",
-                "categoria":"Fisica",
-                "titulo":"UNIT 6 ΟΡΙΖΟΝΤΙΑ ΒΟΛΗ",
-                "miniatura":"https://multimediarepository.blob.core.windows.net/imagecontainer/cb13c486199d42d7968b324a439b8441.jpg"
+                "url":"https://opencontent.upct.es/8156d2256fce4a6abdeeb6880bba32a4/bdb96bce2cfd408db8baf01104eb0a76/",
+                "categoria":"Lenguaje De Programación",
+                "titulo":"Introducción a Visual Studio Code",
+                "miniatura":"https://multimediarepository.blob.core.windows.net/imagecontainer/d15f2dac14b04428a898f16e205f5bbb.png"
             }
         ]
 }
