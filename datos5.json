@@ -1,0 +1,398 @@
+﻿{
+	"numeroPreguntasEvaluacion": "30",
+	"aleatoriedad": "false",
+	"notaBaremo": "80",
+
+	"preguntas": [
+        {
+			"numeroPregunta": "1",
+			"enunciado": "El alimento principal del pueblo asiático es:",
+			"respuestas": [
+				"Patatas",
+				"Arroz",
+				"Maíz",
+				"Oliva"
+			],
+			"respuestaCorrecta": "2",
+			"feedbackCorrecto": "Correct.",
+			"feedbackIncorrecto": "Incorrect."
+		},
+        {
+			"numeroPregunta": "2",
+			"enunciado": "¿Cuál es el principal ingrediente del 'hummus'?",
+			"respuestas": [
+				"Soja",
+				"Arroz",
+				"Garbanzos",
+				"Setas"
+			],
+			"respuestaCorrecta": "3",
+			"feedbackCorrecto": "Correcto.",
+			"feedbackIncorrecto": "Incorrecto."
+		},
+        {
+			"numeroPregunta": "3",
+			"enunciado": "¿De qué comunidad es típica la paella?",
+			"respuestas": [
+				"Aragón",
+				"Comunidad Valenciana",
+				"Cataluña",
+				"Castilla La Mancha"
+			],
+			"respuestaCorrecta": "2",
+			"feedbackCorrecto": "Correcto.",
+			"feedbackIncorrecto": "Incorrecto."
+		},
+        {
+			"numeroPregunta": "4",
+			"enunciado": "¿Qué fruta se convierte en pasa cuando se seca?",
+			"respuestas": [
+				"Uva",
+				"Ciruela",
+				"Arándano",
+				"Mora"
+			],
+			"respuestaCorrecta": "1",
+			"feedbackCorrecto": "Correcto.",
+			"feedbackIncorrecto": "Incorrecto."
+		},
+        {
+			"numeroPregunta": "5",
+			"enunciado": "¿Cuántas comidas deben realizarse a lo largo del día?",
+			"respuestas": [
+				"Dos",
+				"Tres",
+				"Cinco",
+				"Siete"
+			],
+			"respuestaCorrecta": "3",
+			"feedbackCorrecto": "Correcto.",
+			"feedbackIncorrecto": "Incorrecto."
+		},
+        {
+			"numeroPregunta": "6",
+			"enunciado": "¿Qué son los anacardos?",
+			"respuestas": [
+				"una verdura",
+				"Un fruto seco",
+				"Una fruta",
+				"Un pescado"
+			],
+			"respuestaCorrecta": "2",
+			"feedbackCorrecto": "Correcto.",
+			"feedbackIncorrecto": "Incorrecto."
+		},
+        {
+			"numeroPregunta": "7",
+			"enunciado": "¿Cuántas calorías debe contener un alimento para ser considerado light?",
+			"respuestas": [
+				"Menos de 10 calorías",
+				"40 calorías o menos",
+				"Como mínimo, un 20% menos de calorías que el producto habitual",
+				"Un tercio menos de calorías que el producto habitual"
+			],
+			"respuestaCorrecta": "4",
+			"feedbackCorrecto": "Correcto.",
+			"feedbackIncorrecto": "Incorrecto."
+		},
+        {
+			"numeroPregunta": "8",
+			"enunciado": "El mascarpone es el principal ingrediente de...",
+			"respuestas": [
+				"La fondue",
+				"La lasaña",
+				"El tiramisú",
+				"Los escargots"
+			],
+			"respuestaCorrecta": "3",
+			"feedbackCorrecto": "Correcto.",
+			"feedbackIncorrecto": "Incorrecto."
+		},
+        {
+			"numeroPregunta": "9",
+			"enunciado": "Tras el descubrimiento de América nuevos alimentos llegaron a nuestras cocinas, tales como...",
+			"respuestas": [
+				"El vino y el trigo",
+				"El tomate y el cacao",
+				"La naranja y el limón",
+				"El arroz y la uva"
+			],
+			"respuestaCorrecta": "2",
+			"feedbackCorrecto": "Correcto.",
+			"feedbackIncorrecto": "Incorrecto."
+		},
+        {
+			"numeroPregunta": "10",
+			"enunciado": "¿Cuál de estas palabras NO está relacionada con la cocina japonesa?",
+			"respuestas": [
+				"Chop suey",
+				"Teriyaki",
+				"Sashimi",
+				"Sushi"
+			],
+			"respuestaCorrecta": "1",
+			"feedbackCorrecto": "Correcto.",
+			"feedbackIncorrecto": "Incorrecto."
+		},
+        {
+			"numeroPregunta": "11",
+			"enunciado": "Si al meter un huevo en un vaso con agua, éste se hunde, diremos que el huevo...",
+			"respuestas": [
+				"Está pasado por agua",
+				"Está fresco",
+				"Siempre flota",
+				"Ninguna de las anteriores"
+			],
+			"respuestaCorrecta": "2",
+			"feedbackCorrecto": "Correcto.",
+			"feedbackIncorrecto": "Incorrecto."
+		},
+        {
+			"numeroPregunta": "12",
+			"enunciado": "Si no se manipula adecuadamente, su carne puede ser venenosa. ¿De qué pez hablamos?",
+			"respuestas": [
+				"Pez espada",
+				"Pez araña",
+				"Pez globo",
+				"Pez payaso"
+			],
+			"respuestaCorrecta": "3",
+			"feedbackCorrecto": "Correcto.",
+			"feedbackIncorrecto": "Incorrecto."
+		},
+        {
+			"numeroPregunta": "13",
+			"enunciado": "El pimiento de Padrón es una variedad de pimiento originaria de la provincia de...",
+			"respuestas": [
+				"Álava",
+				"Murcia",
+				"Huesca",
+				"A Coruña"
+			],
+			"respuestaCorrecta": "4",
+			"feedbackCorrecto": "Correcto.",
+			"feedbackIncorrecto": "Incorrecto."
+		},
+        {
+			"numeroPregunta": "14",
+			"enunciado": "El guacamole es una salsa mexicana preparada a base de...",
+			"respuestas": [
+				"Tomate",
+				"Aguacate",
+				"Pepino",
+				"Garbanzos"
+			],
+			"respuestaCorrecta": "2",
+			"feedbackCorrecto": "Correcto.",
+			"feedbackIncorrecto": "Incorrecto."
+		},
+        {
+			"numeroPregunta": "15",
+			"enunciado": "¿Qué bebida se elabora con el zumo fermentado de la manzana?",
+			"respuestas": [
+				"La sidra",
+				"El ron",
+				"El sake",
+				"La cerveza"
+			],
+			"respuestaCorrecta": "1",
+			"feedbackCorrecto": "Correcto.",
+			"feedbackIncorrecto": "Incorrecto."
+		},
+        {
+			"numeroPregunta": "16",
+			"enunciado": "¿De dónde proviene el kebab?",
+			"respuestas": [
+				"Brasil",
+				"Marruecos",
+				"Turquía",
+				"India"
+			],
+			"respuestaCorrecta": "3",
+			"feedbackCorrecto": "Correcto.",
+			"feedbackIncorrecto": "Incorrecto."
+		},
+        {
+			"numeroPregunta": "17",
+			"enunciado": "¿Qué tipo de chocolate es más saludable?",
+			"respuestas": [
+				"Chocolate negro",
+				"Chocolate blanco",
+				"Chocolate con leche",
+				"Chocolate sin azucar"
+			],
+			"respuestaCorrecta": "1",
+			"feedbackCorrecto": "Correcto.",
+			"feedbackIncorrecto": "Incorrecto."
+		},
+        {
+			"numeroPregunta": "18",
+			"enunciado": "¿De qué región es típico el gazpacho?",
+			"respuestas": [
+				"Cataluña",
+				"Andalucía",
+				"Canarias",
+				"Aragón"
+			],
+			"respuestaCorrecta": "2",
+			"feedbackCorrecto": "Correcto.",
+			"feedbackIncorrecto": "Incorrecto."
+		},
+        {
+			"numeroPregunta": "19",
+			"enunciado": "El kiwi toma su nombre de...",
+			"respuestas": [
+				"Un ave",
+				"Su descubridor",
+				"Una ciudad alemana",
+				"Ninguna de las anteriores"
+			],
+			"respuestaCorrecta": "1",
+			"feedbackCorrecto": "Correcto.",
+			"feedbackIncorrecto": "Incorrecto."
+		},
+        {
+			"numeroPregunta": "20",
+			"enunciado": "El plátano de Canarias se diferencia de otros productos similares por...",
+			"respuestas": [
+				"Su color",
+				"Las manchas negras en la piel",
+				"El tamaño de la planta",
+				"Ninguna de las anteriores"
+			],
+			"respuestaCorrecta": "2",
+			"feedbackCorrecto": "Correcto.",
+			"feedbackIncorrecto": "Incorrecto."
+		},
+        {
+			"numeroPregunta": "21",
+			"enunciado": "¿Qué variedad de tomate es la de menor tamaño?",
+			"respuestas": [
+				"Kumato",
+				"Muchamiel",
+				"Pera",
+				"Cherry"
+			],
+			"respuestaCorrecta": "4",
+			"feedbackCorrecto": "Correcto.",
+			"feedbackIncorrecto": "Incorrecto."
+		},
+        {
+			"numeroPregunta": "22",
+			"enunciado": "¿De qué fruta es variedad la paraguaya?",
+			"respuestas": [
+				"Naranja",
+				"Pera",
+				"Melocotón",
+				"Manzana"
+			],
+			"respuestaCorrecta": "3",
+			"feedbackCorrecto": "Correcto.",
+			"feedbackIncorrecto": "Incorrecto."
+		},
+        {
+			"numeroPregunta": "23",
+			"enunciado": "¿Cuál es el ingrediente principal del risotto?",
+			"respuestas": [
+				"Pollo",
+				"Arroz",
+				"Alubias",
+				"Grabanzos"
+			],
+			"respuestaCorrecta": "2",
+			"feedbackCorrecto": "Correcto.",
+			"feedbackIncorrecto": "Incorrecto."
+		},
+        {
+			"numeroPregunta": "24",
+			"enunciado": "¿En qué plato NO están presentes las tortas?",
+			"respuestas": [
+				"Quesadillas",
+				"Burrito",
+				"Moussaka",
+				"Dürüm"
+			],
+			"respuestaCorrecta": "3",
+			"feedbackCorrecto": "Correcto.",
+			"feedbackIncorrecto": "Incorrecto."
+		},
+        {
+			"numeroPregunta": "25",
+			"enunciado": "¿Cuál NO es un plato típico alemán?",
+			"respuestas": [
+				"Sauerbraten",
+				"Traunkirchen",
+				"Strüdel",
+				"Bratwurst"
+			],
+			"respuestaCorrecta": "2",
+			"feedbackCorrecto": "Correcto.",
+			"feedbackIncorrecto": "Incorrecto."
+		},
+        {
+			"numeroPregunta": "26",
+			"enunciado": "¿Cuál NO es un plato típico de Sudamérica?",
+			"respuestas": [
+				"Caldeirada",
+				"Ceviche",
+				"Asado",
+				"Tacos"
+			],
+			"respuestaCorrecta": "1",
+			"feedbackCorrecto": "Correcto.",
+			"feedbackIncorrecto": "Incorrecto."
+		},
+        {
+			"numeroPregunta": "27",
+			"enunciado": "¿Qué nombre NO corresponde a una salsa?",
+			"respuestas": [
+				"Brava",
+				"Mojo Picón",
+				"Chimichurri",
+				"Marmitako"
+			],
+			"respuestaCorrecta": "4",
+			"feedbackCorrecto": "Correcto.",
+			"feedbackIncorrecto": "Incorrecto."
+		},
+        {
+			"numeroPregunta": "28",
+			"enunciado": "¿Cuál NO es un plato típico andaluz?",
+			"respuestas": [
+				"Salmorejo",
+				"Mojo Picón",
+				"Mollete",
+				"Espeto de sardinas"
+			],
+			"respuestaCorrecta": "2",
+			"feedbackCorrecto": "Correcto.",
+			"feedbackIncorrecto": "Incorrecto."
+		},
+        {
+			"numeroPregunta": "29",
+			"enunciado": "¿De qué color es normalmente la salsa tártara?",
+			"respuestas": [
+				"Verde",
+				"Amarilla",
+				"Roja",
+				"Blanca"
+			],
+			"respuestaCorrecta": "4",
+			"feedbackCorrecto": "Correcto.",
+			"feedbackIncorrecto": "Incorrecto."
+		},
+        {
+			"numeroPregunta": "30",
+			"enunciado": "¿De qué comunidad es típico el bocadillo de calamares?",
+			"respuestas": [
+				"Asturias",
+				"Castilla La Mancha",
+				"Madrid",
+				"Castilla y León"
+			],
+			"respuestaCorrecta": "3",
+			"feedbackCorrecto": "Correcto.",
+			"feedbackIncorrecto": "Incorrecto."
+		}
+	]
+}
