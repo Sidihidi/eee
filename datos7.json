@@ -1,0 +1,428 @@
+﻿{
+	"numeroPreguntasEvaluacion": "30",
+	"aleatoriedad": "false",
+	"notaBaremo": "80",
+
+	"preguntas": {
+
+		"1":{
+			"numeroPregunta": "1",
+			"enunciado": "¿De qué artista es la canción 'Jailhouse Rock'?",
+			"respuestas": [
+				"Elvis Presley",
+				"The Beatles",
+				"The Rolling Stones",
+				"Ray Charles"
+			],
+			"respuestaCorrecta": "1",
+			"feedbackCorrecto": "Correct.",
+			"feedbackIncorrecto": "Incorrect."
+		},
+
+		"2":{
+			"numeroPregunta": "2",
+			"enunciado": "¿Cuál de los siguientes cantantes fue portero del Real Madrid?",
+			"respuestas": [
+				"David Bisbal",
+				"Julio Iglesias",
+				"Joaquín Sabina",
+				"Nino Bravo"
+			],
+			"respuestaCorrecta": "2",
+			"feedbackCorrecto": "Correcto.",
+			"feedbackIncorrecto": "Incorrecto."
+		},
+
+		"3":{
+			"numeroPregunta": "3",
+			"enunciado": "¿Cuál es el disco más vendido de todos los tiempos?",
+			"respuestas": [
+				"Born in the USA (Bruce Springsteen)",
+				"The Dark Side of the Moon (Pink Floyd)",
+				"Thriller (Michael Jackson)",
+				"Ni más ni menos (Los Chichos)"
+			],
+			"respuestaCorrecta": "3",
+			"feedbackCorrecto": "Correcto.",
+			"feedbackIncorrecto": "Incorrecto."
+		},
+
+		"4":{
+			"numeroPregunta": "4",
+			"enunciado": "¿Qué Beatle fue asesinado por un fan?",
+			"respuestas": [
+				"George Harrison",
+				"Ringo Star",
+				"Ninguno.",
+				"Jonh Lennon"
+			],
+			"respuestaCorrecta": "4",
+			"feedbackCorrecto": "Correcto.",
+			"feedbackIncorrecto": "Incorrecto."
+		},
+
+		"5":{
+			"numeroPregunta": "5",
+			"enunciado": "¿De dónde proviene el reggae?",
+			"respuestas": [
+				"Cuba",
+				"Jamaica",
+				"Haití",
+				"República Dominicana"
+			],
+			"respuestaCorrecta": "2",
+			"feedbackCorrecto": "Correcto.",
+			"feedbackIncorrecto": "Incorrecto."
+		},
+
+		"6":{
+			"numeroPregunta": "6",
+			"enunciado": "¿De qué grupo es la canción 'La flaca'?",
+			"respuestas": [
+				"Café Quijano",
+				"Hombres G",
+				"Jarabe de Palo",
+				"Melody"
+			],
+			"respuestaCorrecta": "3",
+			"feedbackCorrecto": "Correcto.",
+			"feedbackIncorrecto": "Incorrecto."
+		},
+
+		"7":{
+			"numeroPregunta": "7",
+			"enunciado": "¿Quién es el cantante de The Rolling Stones?",
+			"respuestas": [
+				"Brian Jones",
+				"Mick Jagger",
+				"Keith Richards",
+				"Jonh Lennon"
+			],
+			"respuestaCorrecta": "2",
+			"feedbackCorrecto": "Correcto.",
+			"feedbackIncorrecto": "Incorrecto."
+		},
+
+		"8":{
+			"numeroPregunta": "8",
+			"enunciado": "¿Cuántas cuerdas tiene un bajo estándar?",
+			"respuestas": [
+				"6",
+				"8",
+				"4",
+				"3"
+			],
+			"respuestaCorrecta": "3",
+			"feedbackCorrecto": "Correcto.",
+			"feedbackIncorrecto": "Incorrecto."
+		},
+
+		"9":{
+			"numeroPregunta": "9",
+			"enunciado": "¿Quién era el líder de la banda Queen?",
+			"respuestas": [
+				"Robert Smith",
+				"Freddie Mercury",
+				"David Bowie",
+				"Roger Waters"
+			],
+			"respuestaCorrecta": "2",
+			"feedbackCorrecto": "Correcto.",
+			"feedbackIncorrecto": "Incorrecto."
+		},
+
+		"10":{
+			"numeroPregunta": "10",
+			"enunciado": "¿Quién es el líder de la banda Coldplay?",
+			"respuestas": [
+				"Chris Martin",
+				"Will Champion",
+				"Bono",
+				"Chester Bennington"
+			],
+			"respuestaCorrecta": "1",
+			"feedbackCorrecto": "Correcto.",
+			"feedbackIncorrecto": "Incorrecto."
+		},
+
+		"11":{
+			"numeroPregunta": "11",
+			"enunciado": "¿Antes de crear Fito y Fitipaldis, en qué grupo estaba Fito?",
+			"respuestas": [
+				"Barricada",
+				"Hombres G",
+				"Los Secretos",
+				"Platero y Tú"
+			],
+			"respuestaCorrecta": "4",
+			"feedbackCorrecto": "Correcto.",
+			"feedbackIncorrecto": "Incorrecto."
+		},
+
+		"12":{
+			"numeroPregunta": "12",
+			"enunciado": "¿A qué familia musical pertenece la tuba?",
+			"respuestas": [
+				"Viento metal",
+				"Viento madera",
+				"Percusión",
+				"Cuerda"
+			],
+			"respuestaCorrecta": "1",
+			"feedbackCorrecto": "Correcto.",
+			"feedbackIncorrecto": "Incorrecto."
+		},
+
+		"13":{
+			"numeroPregunta": "13",
+			"enunciado": "¿A qué familia musical pertenecen los platillos?",
+			"respuestas": [
+				"Viento metal",
+				"Viento madera",
+				"Percusión",
+				"Cuerda"
+			],
+			"respuestaCorrecta": "3",
+			"feedbackCorrecto": "Correcto.",
+			"feedbackIncorrecto": "Incorrecto."
+		},
+
+		"14":{
+			"numeroPregunta": "14",
+			"enunciado": "¿Cómo murió Kurt Cobain, líder de la banda Nirvana?",
+			"respuestas": [
+				"En un accidente de coche",
+				"Se suicidó",
+				"Asesinado por un fan",
+				"De un ataque al corazón"
+			],
+			"respuestaCorrecta": "2",
+			"feedbackCorrecto": "Correcto.",
+			"feedbackIncorrecto": "Incorrecto."
+		},
+
+		"15":{
+			"numeroPregunta": "15",
+			"enunciado": "¿En cuál de estos grupos NO canta una mujer?",
+			"respuestas": [
+				"The Cranberries",
+				"Smashing Pumpkins",
+				"Evanescence",
+				"No Doubt"
+			],
+			"respuestaCorrecta": "2",
+			"feedbackCorrecto": "Correcto.",
+			"feedbackIncorrecto": "Incorrecto."
+		},
+
+		"16":{
+			"numeroPregunta": "16",
+			"enunciado": "¿De dónde es la cantante Rihanna?",
+			"respuestas": [
+				"Barbados",
+				"Estados Unidos",
+				"Canadá",
+				"Puerto Rico"
+			],
+			"respuestaCorrecta": "1",
+			"feedbackCorrecto": "Correcto.",
+			"feedbackIncorrecto": "Incorrecto."
+		},
+
+		"17":{
+			"numeroPregunta": "17",
+			"enunciado": "Los Tres Tenores son: Luciano Pavarotti, José Carreras y...",
+			"respuestas": [
+				"Andrea Bocelli",
+				"Plácido Domingo",
+				"Enrico Caruso",
+				"Alfredo Kraus"
+			],
+			"respuestaCorrecta": "2",
+			"feedbackCorrecto": "Correcto.",
+			"feedbackIncorrecto": "Incorrecto."
+		},
+
+		"18":{
+			"numeroPregunta": "18",
+			"enunciado": "¿Quién de entre estos tenores es/era ciego?",
+			"respuestas": [
+				"Andrea Bocelli",
+				"Plácido Domingo",
+				"Enrico Caruso",
+				"Alfredo Kraus"
+			],
+			"respuestaCorrecta": "1",
+			"feedbackCorrecto": "Correcto.",
+			"feedbackIncorrecto": "Incorrecto."
+		},
+
+		"19":{
+			"numeroPregunta": "19",
+			"enunciado": "¿A qué compositor debemos La Traviata?",
+			"respuestas": [
+				"Giacomo Puccini",
+				"Giuseppe Verdi",
+				"Haendel",
+				"Richard Wagner"
+			],
+			"respuestaCorrecta": "2",
+			"feedbackCorrecto": "Correcto.",
+			"feedbackIncorrecto": "Incorrecto."
+		},
+
+		"20":{
+			"numeroPregunta": "20",
+			"enunciado": "¿Qué canción del verano NO es de Georgie Dann?",
+			"respuestas": [
+				"El chiringuito",
+				"La barbacoa",
+				"El negro no puede...",
+				"Salta"
+			],
+			"respuestaCorrecta": "4",
+			"feedbackCorrecto": "Correcto.",
+			"feedbackIncorrecto": "Incorrecto."
+		},
+
+		"21":{
+			"numeroPregunta": "21",
+			"enunciado": "¿Qué autor compuso la Obertura 1812?",
+			"respuestas": [
+				"Mozart",
+				"Beethoven",
+				"Chaikovski",
+				"Bach"
+			],
+			"respuestaCorrecta": "3",
+			"feedbackCorrecto": "Correcto.",
+			"feedbackIncorrecto": "Incorrecto."
+		},
+
+		"22":{
+			"numeroPregunta": "22",
+			"enunciado": "¿Cuántas líneas tiene un pentagrama?",
+			"respuestas": [
+				"5",
+				"4",
+				"6",
+				"3"
+			],
+			"respuestaCorrecta": "1",
+			"feedbackCorrecto": "Correcto.",
+			"feedbackIncorrecto": "Incorrecto."
+		},
+
+		"23":{
+			"numeroPregunta": "23",
+			"enunciado": "¿Cuántas cuerdas tiene una guitarra flamenca?",
+			"respuestas": [
+				"5",
+				"4",
+				"6",
+				"3"
+			],
+			"respuestaCorrecta": "3",
+			"feedbackCorrecto": "Correcto.",
+			"feedbackIncorrecto": "Incorrecto."
+		},
+
+		"24":{
+			"numeroPregunta": "24",
+			"enunciado": "¿Qué elemento NO forma parte de una guitarra eléctrica?",
+			"respuestas": [
+				"Trastes",
+				"Baquetas",
+				"Mástil",
+				"Diapasón"
+			],
+			"respuestaCorrecta": "2",
+			"feedbackCorrecto": "Correcto.",
+			"feedbackIncorrecto": "Incorrecto."
+		},
+
+		"25":{
+			"numeroPregunta": "25",
+			"enunciado": "¿A qué familia musical pertenece el piano?",
+			"respuestas": [
+				"Viento metal",
+				"Viento madera",
+				"Percusión",
+				"Cuerda"
+			],
+			"respuestaCorrecta": "4",
+			"feedbackCorrecto": "Correcto.",
+			"feedbackIncorrecto": "Incorrecto."
+		},
+
+		"26":{
+			"numeroPregunta": "26",
+			"enunciado": "¿Cuál es el tipo de voz más agudo?",
+			"respuestas": [
+				"Tenor",
+				"Barítono",
+				"Bajo",
+				"Soprano"
+			],
+			"respuestaCorrecta": "4",
+			"feedbackCorrecto": "Correcto.",
+			"feedbackIncorrecto": "Incorrecto."
+		},
+
+		"27":{
+			"numeroPregunta": "27",
+			"enunciado": "¿Qué instrumento es más antiguo?",
+			"respuestas": [
+				"Flauta",
+				"Piano",
+				"Saxofón",
+				"Violín"
+			],
+			"respuestaCorrecta": "1",
+			"feedbackCorrecto": "Correcto.",
+			"feedbackIncorrecto": "Incorrecto."
+		},
+
+		"28":{
+			"numeroPregunta": "28",
+			"enunciado": "¿Qué grupo canta el Gangnam Style?",
+			"respuestas": [
+				"One Direction",
+				"U2",
+				"PSY",
+				"NSYNC"
+			],
+			"respuestaCorrecta": "3",
+			"feedbackCorrecto": "Correcto.",
+			"feedbackIncorrecto": "Incorrecto."
+		},
+
+		"29":{
+			"numeroPregunta": "29",
+			"enunciado": "¿Qué cantante NO es de EE.UU.?",
+			"respuestas": [
+				"Bruce Springsteen",
+				"Justin Bieber",
+				"Justin Timberlake",
+				"Beyoncé"
+			],
+			"respuestaCorrecta": "2",
+			"feedbackCorrecto": "Correcto.",
+			"feedbackIncorrecto": "Incorrecto."
+		},
+
+		"30":{
+			"numeroPregunta": "30",
+			"enunciado": "¿Cuál de estas canciones NO es de Bob Dylan?",
+			"respuestas": [
+				"Blowing in the wind",
+				"Like a rolling stone",
+				"Dancing in the dark",
+				"Hurricane"
+			],
+			"respuestaCorrecta": "3",
+			"feedbackCorrecto": "Correcto.",
+			"feedbackIncorrecto": "Incorrecto."
+		}
+	}
+}
