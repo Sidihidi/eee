@@ -1,11 +1,9 @@
-﻿{
+{
 	"numeroPreguntasEvaluacion": "30",
 	"aleatoriedad": "false",
 	"notaBaremo": "80",
-
-	"preguntas": {
-
-		"1":{
+	"preguntas": [
+		{
 			"numeroPregunta": "1",
 			"enunciado": "¿Cómo se llama la hija menor de los Simpson?",
 			"respuestas": [
@@ -18,8 +16,7 @@
 			"feedbackCorrecto": "Correct.",
 			"feedbackIncorrecto": "Incorrect."
 		},
-
-		"2":{
+		{
 			"numeroPregunta": "2",
 			"enunciado": "¿Cuál de las siguientes películas NO fue dirigida por Steven Spielberg?",
 			"respuestas": [
@@ -32,8 +29,7 @@
 			"feedbackCorrecto": "Correcto.",
 			"feedbackIncorrecto": "Incorrecto."
 		},
-
-		"3":{
+		{
 			"numeroPregunta": "3",
 			"enunciado": "¿De qué empresario cuenta la historia la película 'La red social'?",
 			"respuestas": [
@@ -46,8 +42,7 @@
 			"feedbackCorrecto": "Correcto.",
 			"feedbackIncorrecto": "Incorrecto."
 		},
-
-		"4":{
+		{
 			"numeroPregunta": "4",
 			"enunciado": "¿Cuál de estas películas consiguió el Oscar a Mejor Película?",
 			"respuestas": [
@@ -60,8 +55,7 @@
 			"feedbackCorrecto": "Correcto.",
 			"feedbackIncorrecto": "Incorrecto."
 		},
-
-		"5":{
+		{
 			"numeroPregunta": "5",
 			"enunciado": "¿Cómo se llama el actor protagonista de 'Solo en casa'?",
 			"respuestas": [
@@ -74,8 +68,7 @@
 			"feedbackCorrecto": "Correcto.",
 			"feedbackIncorrecto": "Incorrecto."
 		},
-
-		"6":{
+		{
 			"numeroPregunta": "6",
 			"enunciado": "¿De qué famosa película de Disney es el personaje Jafar?",
 			"respuestas": [
@@ -88,8 +81,7 @@
 			"feedbackCorrecto": "Correcto.",
 			"feedbackIncorrecto": "Incorrecto."
 		},
-
-		"7":{
+		{
 			"numeroPregunta": "7",
 			"enunciado": "¿Cómo se llama el personaje que interpreta Al Pacino en 'Scarface'?",
 			"respuestas": [
@@ -102,8 +94,7 @@
 			"feedbackCorrecto": "Correcto.",
 			"feedbackIncorrecto": "Incorrecto."
 		},
-
-		"8":{
+		{
 			"numeroPregunta": "8",
 			"enunciado": "¿En qué película podemos escuchar 'Sayonara, baby'?",
 			"respuestas": [
@@ -116,8 +107,7 @@
 			"feedbackCorrecto": "Correcto.",
 			"feedbackIncorrecto": "Incorrecto."
 		},
-
-		"9":{
+		{
 			"numeroPregunta": "9",
 			"enunciado": "¿Qué personaje es enano en Juego de Tronos?",
 			"respuestas": [
@@ -130,8 +120,7 @@
 			"feedbackCorrecto": "Correcto.",
 			"feedbackIncorrecto": "Incorrecto."
 		},
-
-		"10":{
+		{
 			"numeroPregunta": "10",
 			"enunciado": "¿Qué parentesco comparten Walter White y Jesse Pinkman en Breaking Bad?",
 			"respuestas": [
@@ -144,8 +133,7 @@
 			"feedbackCorrecto": "Correcto.",
 			"feedbackIncorrecto": "Incorrecto."
 		},
-
-		"11":{
+		{
 			"numeroPregunta": "11",
 			"enunciado": "¿Cómo se llama el robot alcohólico de la serie Futurama?",
 			"respuestas": [
@@ -158,8 +146,7 @@
 			"feedbackCorrecto": "Correcto.",
 			"feedbackIncorrecto": "Incorrecto."
 		},
-
-		"12":{
+		{
 			"numeroPregunta": "12",
 			"enunciado": "¿Cómo se llama la serie de dibujos animados en la que aparece un gato cósmico del siglo XXI?",
 			"respuestas": [
@@ -172,8 +159,7 @@
 			"feedbackCorrecto": "Correcto.",
 			"feedbackIncorrecto": "Incorrecto."
 		},
-
-		"13":{
+		{
 			"numeroPregunta": "13",
 			"enunciado": "¿Qué película es más antigua?",
 			"respuestas": [
@@ -186,8 +172,7 @@
 			"feedbackCorrecto": "Correcto.",
 			"feedbackIncorrecto": "Incorrecto."
 		},
-
-		"14":{
+		{
 			"numeroPregunta": "14",
 			"enunciado": "¿En qué película podemos escuchar 'La vida es como una caja de bombones, nunca sabes lo que te va a tocar…'?",
 			"respuestas": [
@@ -200,8 +185,7 @@
 			"feedbackCorrecto": "Correcto.",
 			"feedbackIncorrecto": "Incorrecto."
 		},
-
-		"15":{
+		{
 			"numeroPregunta": "15",
 			"enunciado": "¿Qué director de cine aterrorizó a los EE.UU. con su adaptación radiofónica de 'La guerra de los mundos'?",
 			"respuestas": [
@@ -214,8 +198,7 @@
 			"feedbackCorrecto": "Correcto.",
 			"feedbackIncorrecto": "Incorrecto."
 		},
-
-		"16":{
+		{
 			"numeroPregunta": "16",
 			"enunciado": "¿Qué película NO es de Alfred Hitchcock?",
 			"respuestas": [
@@ -228,8 +211,7 @@
 			"feedbackCorrecto": "Correcto.",
 			"feedbackIncorrecto": "Incorrecto."
 		},
-
-		"17":{
+		{
 			"numeroPregunta": "17",
 			"enunciado": "¿Qué personaje interpreta Viggo Mortensen en El Señor de los Anillos?",
 			"respuestas": [
@@ -242,8 +224,7 @@
 			"feedbackCorrecto": "Correcto.",
 			"feedbackIncorrecto": "Incorrecto."
 		},
-
-		"18":{
+		{
 			"numeroPregunta": "18",
 			"enunciado": "¿Qué droide tiene forma de balón en el universo Star Wars?",
 			"respuestas": [
@@ -256,8 +237,7 @@
 			"feedbackCorrecto": "Correcto.",
 			"feedbackIncorrecto": "Incorrecto."
 		},
-
-		"19":{
+		{
 			"numeroPregunta": "19",
 			"enunciado": "¿Qué nombre recibe la nave más famosa del universo Star Trek?",
 			"respuestas": [
@@ -270,8 +250,7 @@
 			"feedbackCorrecto": "Correcto.",
 			"feedbackIncorrecto": "Incorrecto."
 		},
-
-		"20":{
+		{
 			"numeroPregunta": "20",
 			"enunciado": "¿Cómo se llama el asistente de Iron Man?",
 			"respuestas": [
@@ -284,8 +263,7 @@
 			"feedbackCorrecto": "Correcto.",
 			"feedbackIncorrecto": "Incorrecto."
 		},
-
-		"21":{
+		"{
 			"numeroPregunta": "21",
 			"enunciado": "En el universo Harry Potter, ¿qué provoca el hechizo 'Reducto'?",
 			"respuestas": [
@@ -298,8 +276,7 @@
 			"feedbackCorrecto": "Correcto.",
 			"feedbackIncorrecto": "Incorrecto."
 		},
-
-		"22":{
+		{
 			"numeroPregunta": "22",
 			"enunciado": "¿Cómo se llama el robot del que se enamora WALL·E?",
 			"respuestas": [
@@ -312,8 +289,7 @@
 			"feedbackCorrecto": "Correcto.",
 			"feedbackIncorrecto": "Incorrecto."
 		},
-
-		"23":{
+		{
 			"numeroPregunta": "23",
 			"enunciado": "¿Qué tortuga llevaba el pañuelo azul en Las Tortugas Ninja?",
 			"respuestas": [
@@ -326,8 +302,7 @@
 			"feedbackCorrecto": "Correcto.",
 			"feedbackIncorrecto": "Incorrecto."
 		},
-
-		"24":{
+		{
 			"numeroPregunta": "24",
 			"enunciado": "¿Qué nombre recibe la espada de Jon Snow en Juego de Tronos?",
 			"respuestas": [
@@ -340,8 +315,7 @@
 			"feedbackCorrecto": "Correcto.",
 			"feedbackIncorrecto": "Incorrecto."
 		},
-
-		"25":{
+		{
 			"numeroPregunta": "25",
 			"enunciado": "¿En qué desea trabajar Penny en la serie The Big Bang Theory?",
 			"respuestas": [
@@ -354,8 +328,7 @@
 			"feedbackCorrecto": "Correcto.",
 			"feedbackIncorrecto": "Incorrecto."
 		},
-
-		"26":{
+		{
 			"numeroPregunta": "26",
 			"enunciado": "¿Qué fruta es la casa de Bob Esponja?",
 			"respuestas": [
@@ -368,8 +341,7 @@
 			"feedbackCorrecto": "Correcto.",
 			"feedbackIncorrecto": "Incorrecto."
 		},
-
-		"27":{
+		{
 			"numeroPregunta": "27",
 			"enunciado": "¿Qué director de cine dijo 'No quiero alcanzar la inmortalidad mediante mi obra, sino simplemente no muriendo'?",
 			"respuestas": [
@@ -382,8 +354,7 @@
 			"feedbackCorrecto": "Correcto.",
 			"feedbackIncorrecto": "Incorrecto."
 		},
-
-		"28":{
+		{
 			"numeroPregunta": "28",
 			"enunciado": "¿Qué nombre recibe la segunda película de la trilogía El Señor de los Anillos?",
 			"respuestas": [
@@ -396,8 +367,7 @@
 			"feedbackCorrecto": "Correcto.",
 			"feedbackIncorrecto": "Incorrecto."
 		},
-
-		"29":{
+		{
 			"numeroPregunta": "29",
 			"enunciado": "¿Cuál es el instrumento musical favorito de Lisa Simpson?",
 			"respuestas": [
@@ -410,8 +380,7 @@
 			"feedbackCorrecto": "Correcto.",
 			"feedbackIncorrecto": "Incorrecto."
 		},
-
-		"30":{
+		{
 			"numeroPregunta": "30",
 			"enunciado": "¿Cuántos Oscar a Mejor Actor ha ganado Leonardo DiCaprio hasta 2016?",
 			"respuestas": [
@@ -424,5 +393,5 @@
 			"feedbackCorrecto": "Correcto.",
 			"feedbackIncorrecto": "Incorrecto."
 		}
-	}
+	]
 }
