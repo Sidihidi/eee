@@ -1,11 +1,9 @@
-﻿{
+{
 	"numeroPreguntasEvaluacion": "30",
 	"aleatoriedad": "false",
 	"notaBaremo": "80",
-
-	"preguntas": {
-
-		"1":{
+	"preguntas": [
+		{
 			"numeroPregunta": "1",
 			"enunciado": "¿Cuál es el animal terrestre más rápido del mundo?",
 			"respuestas": [
@@ -18,8 +16,7 @@
 			"feedbackCorrecto": "Correct.",
 			"feedbackIncorrecto": "Incorrect."
 		},
-
-		"2":{
+                {
 			"numeroPregunta": "2",
 			"enunciado": "¿Cuántos habitantes tiene aproximadamente China?",
 			"respuestas": [
@@ -32,8 +29,7 @@
 			"feedbackCorrecto": "Correcto.",
 			"feedbackIncorrecto": "Incorrecto."
 		},
-
-		"3":{
+		{
 			"numeroPregunta": "3",
 			"enunciado": "¿De qué color son las cajas negras de los aviones?",
 			"respuestas": [
@@ -46,8 +42,7 @@
 			"feedbackCorrecto": "Correcto.",
 			"feedbackIncorrecto": "Incorrecto."
 		},
-
-		"4":{
+		{
 			"numeroPregunta": "4",
 			"enunciado": "¿Qué animal representa al Sistema Operativo Linux?",
 			"respuestas": [
@@ -60,8 +55,7 @@
 			"feedbackCorrecto": "Correcto.",
 			"feedbackIncorrecto": "Incorrecto."
 		},
-
-		"5":{
+		{
 			"numeroPregunta": "5",
 			"enunciado": "¿A qué tienes miedo si padeces 'didascaleinofobia'?",
 			"respuestas": [
@@ -74,8 +68,7 @@
 			"feedbackCorrecto": "Correcto.",
 			"feedbackIncorrecto": "Incorrecto."
 		},
-
-		"6":{
+		{
 			"numeroPregunta": "6",
 			"enunciado": "¿Cómo obtuvo Obelix su fuerza sobrehumana?",
 			"respuestas": [
@@ -88,8 +81,7 @@
 			"feedbackCorrecto": "Correcto.",
 			"feedbackIncorrecto": "Incorrecto."
 		},
-
-		"7":{
+		{
 			"numeroPregunta": "7",
 			"enunciado": "¿Qué objeto cotidiano inmortalizó Andy Warhol en una de sus más famosas obras?",
 			"respuestas": [
@@ -102,8 +94,7 @@
 			"feedbackCorrecto": "Correcto.",
 			"feedbackIncorrecto": "Incorrecto."
 		},
-
-		"8":{
+		{
 			"numeroPregunta": "8",
 			"enunciado": "¿Quién es la mascota de SEGA?",
 			"respuestas": [
@@ -116,8 +107,7 @@
 			"feedbackCorrecto": "Correcto.",
 			"feedbackIncorrecto": "Incorrecto."
 		},
-
-		"9":{
+		{
 			"numeroPregunta": "9",
 			"enunciado": "¿Cuántos colores tiene un cubo de Rubik clásico?",
 			"respuestas": [
@@ -130,8 +120,7 @@
 			"feedbackCorrecto": "Correcto.",
 			"feedbackIncorrecto": "Incorrecto."
 		},
-
-		"10":{
+		{
 			"numeroPregunta": "10",
 			"enunciado": "¿En qué año se fundó Twitter?",
 			"respuestas": [
@@ -144,8 +133,7 @@
 			"feedbackCorrecto": "Correcto.",
 			"feedbackIncorrecto": "Incorrecto."
 		},
-
-		"11":{
+		{
 			"numeroPregunta": "11",
 			"enunciado": "¿Con qué dos colores suele tener problemas una persona daltónica?",
 			"respuestas": [
@@ -158,8 +146,7 @@
 			"feedbackCorrecto": "Correcto.",
 			"feedbackIncorrecto": "Incorrecto."
 		},
-
-		"12":{
+		{
 			"numeroPregunta": "12",
 			"enunciado": "¿De qué color son los huevos que pone la hembra de cocodrilo?",
 			"respuestas": [
@@ -172,8 +159,7 @@
 			"feedbackCorrecto": "Correcto.",
 			"feedbackIncorrecto": "Incorrecto."
 		},
-
-		"13":{
+		{
 			"numeroPregunta": "13",
 			"enunciado": "¿Cuántos años de casados se festejan en las bodas de diamante?",
 			"respuestas": [
@@ -186,8 +172,7 @@
 			"feedbackCorrecto": "Correcto.",
 			"feedbackIncorrecto": "Incorrecto."
 		},
-
-		"14":{
+		{
 			"numeroPregunta": "14",
 			"enunciado": "¿Qué pareja de cromosomas determina si el sexo es masculino?",
 			"respuestas": [
@@ -200,8 +185,7 @@
 			"feedbackCorrecto": "Correcto.",
 			"feedbackIncorrecto": "Incorrecto."
 		},
-
-		"15":{
+		{
 			"numeroPregunta": "15",
 			"enunciado": "¿Cuál de estos inventos se creó primero?",
 			"respuestas": [
@@ -214,8 +198,7 @@
 			"feedbackCorrecto": "Correcto.",
 			"feedbackIncorrecto": "Incorrecto."
 		},
-
-		"16":{
+		{
 			"numeroPregunta": "16",
 			"enunciado": "Completa la frase con las dos palabras que faltan en los puntos:.... es a CENA como MAÑANA es a ......",
 			"respuestas": [
@@ -228,8 +211,7 @@
 			"feedbackCorrecto": "Correcto.",
 			"feedbackIncorrecto": "Incorrecto."
 		},
-
-		"17":{
+		{
 			"numeroPregunta": "17",
 			"enunciado": "¿Cuál de las siguientes afirmaciones respecto a la Luna NO es correcta?",
 			"respuestas": [
@@ -242,8 +224,7 @@
 			"feedbackCorrecto": "Correcto.",
 			"feedbackIncorrecto": "Incorrecto."
 		},
-
-		"18":{
+		{
 			"numeroPregunta": "18",
 			"enunciado": "¿Cuál de los siguientes superhéroes pertenece al universo DC?",
 			"respuestas": [
@@ -256,8 +237,7 @@
 			"feedbackCorrecto": "Correcto.",
 			"feedbackIncorrecto": "Incorrecto."
 		},
-
-		"19":{
+		{
 			"numeroPregunta": "19",
 			"enunciado": "¿Qué metal es líquido a temperatura ambiente?",
 			"respuestas": [
@@ -270,8 +250,7 @@
 			"feedbackCorrecto": "Correcto.",
 			"feedbackIncorrecto": "Incorrecto."
 		},
-
-		"20":{
+		{
 			"numeroPregunta": "20",
 			"enunciado": "¿Cuál es el hueso más largo del ser humano?",
 			"respuestas": [
@@ -284,8 +263,7 @@
 			"feedbackCorrecto": "Correcto.",
 			"feedbackIncorrecto": "Incorrecto."
 		},
-
-		"21":{
+		{
 			"numeroPregunta": "21",
 			"enunciado": "¿Qué país regaló la Estatua de la Libertad a los Estados Unidos?",
 			"respuestas": [
@@ -298,8 +276,7 @@
 			"feedbackCorrecto": "Correcto.",
 			"feedbackIncorrecto": "Incorrecto."
 		},
-
-		"22":{
+		{
 			"numeroPregunta": "22",
 			"enunciado": "¿A qué se dedica un taxidermista?",
 			"respuestas": [
@@ -312,8 +289,7 @@
 			"feedbackCorrecto": "Correcto.",
 			"feedbackIncorrecto": "Incorrecto."
 		},
-
-		"23":{
+		{
 			"numeroPregunta": "23",
 			"enunciado": "¿Cuál es el continente más pequeño del planeta Tierra?",
 			"respuestas": [
@@ -326,8 +302,7 @@
 			"feedbackCorrecto": "Correcto.",
 			"feedbackIncorrecto": "Incorrecto."
 		},
-
-		"24":{
+		{
 			"numeroPregunta": "24",
 			"enunciado": "Onubense es el gentilicio de la provincia de...",
 			"respuestas": [
@@ -340,8 +315,7 @@
 			"feedbackCorrecto": "Correcto.",
 			"feedbackIncorrecto": "Incorrecto."
 		},
-
-		"25":{
+		{
 			"numeroPregunta": "25",
 			"enunciado": "¿Cómo se representa el número 2563 en números romanos?",
 			"respuestas": [
@@ -354,8 +328,7 @@
 			"feedbackCorrecto": "Correcto.",
 			"feedbackIncorrecto": "Incorrecto."
 		},
-
-		"26":{
+		{
 			"numeroPregunta": "26",
 			"enunciado": "¿Cómo eliminan los mamíferos el dióxido de carbono de su organismo?",
 			"respuestas": [
@@ -368,8 +341,7 @@
 			"feedbackCorrecto": "Correcto.",
 			"feedbackIncorrecto": "Incorrecto."
 		},
-
-		"27":{
+		{
 			"numeroPregunta": "27",
 			"enunciado": "¿Cuál es el único animal con cuatro rodillas?",
 			"respuestas": [
@@ -382,8 +354,7 @@
 			"feedbackCorrecto": "Correcto.",
 			"feedbackIncorrecto": "Incorrecto."
 		},
-
-		"28":{
+		{
 			"numeroPregunta": "28",
 			"enunciado": "¿Dónde se encuentra el monumento de Stonehenge?",
 			"respuestas": [
@@ -396,8 +367,7 @@
 			"feedbackCorrecto": "Correcto.",
 			"feedbackIncorrecto": "Incorrecto."
 		},
-
-		"29":{
+		{
 			"numeroPregunta": "29",
 			"enunciado": "¿Cuántos litros de sangre tiene el cuerpo humano?",
 			"respuestas": [
@@ -410,8 +380,7 @@
 			"feedbackCorrecto": "Correcto.",
 			"feedbackIncorrecto": "Incorrecto."
 		},
-
-		"30":{
+		{
 			"numeroPregunta": "30",
 			"enunciado": "¿Qué planeta es famoso por los anillos que lo rodean?",
 			"respuestas": [
@@ -424,5 +393,5 @@
 			"feedbackCorrecto": "Correcto.",
 			"feedbackIncorrecto": "Incorrecto."
 		}
-	}
+	]
 }
