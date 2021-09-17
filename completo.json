@@ -1,0 +1,293 @@
+{
+   "_id":{
+      "$oid":"6144735c719ae2a02865f69e"
+   },
+   "course":"5092",
+   "domain":"aulavirtual.upct.es",
+   "user":"cohort",
+   "aggregate":{
+      "number_visited_units":{
+         "$numberInt":"2"
+      },
+      "number_users":{
+         "$numberInt":"3"
+      },
+      "visited_completed_units":[
+         {
+            "domain":"aulavirtual.upct.es",
+            "course":"5092",
+            "activity":"12135",
+            "url":"c93ff8a30a444b0881319ceb8e07cb0c",
+            "has_visited":"1",
+            "has_completed":"1",
+            "visitors":"2",
+            "finishers":"2",
+            "current_title":"Accesibilidad v3"
+         },
+         {
+            "domain":"aulavirtual.upct.es",
+            "course":"5092",
+            "activity":"12136",
+            "url":"aae1a3c65b1c4c87827dad00bc36f92b",
+            "has_visited":"1",
+            "has_completed":"1",
+            "visitors":"1",
+            "finishers":"0",
+            "current_title":"Jasmine v3"
+         }
+      ],
+      "daily_effort":[
+         {
+            "domain":"aulavirtual.upct.es",
+            "course":"5092",
+            "user":"20377",
+            "day":"2021-09-17",
+            "time_spent":"632.2496001720428",
+            "name":"MATHIEU KESSLER",
+            "email":"mathieu.kessler@upct.es"
+         },
+         {
+            "domain":"aulavirtual.upct.es",
+            "course":"5092",
+            "user":"27134",
+            "day":"2021-09-17",
+            "time_spent":"0.0",
+            "name":"SILVIA CARRALERO NUÑO",
+            "email":"silvia.carralero@upct.es"
+         },
+         {
+            "domain":"aulavirtual.upct.es",
+            "course":"5092",
+            "user":"41720",
+            "day":"2021-09-17",
+            "time_spent":"7195.090800046921",
+            "name":"DANIEL PÉREZ, BERENGUER",
+            "email":"daniel.perez@upct.es"
+         }
+      ],
+      "user_progress":[
+         {
+            "domain":"aulavirtual.upct.es",
+            "course":"5092",
+            "activity":"12135",
+            "url":"c93ff8a30a444b0881319ceb8e07cb0c",
+            "user":"20377",
+            "percentage":"23.529411764706",
+            "time_spent":"27.48360013961792",
+            "current_title":"Accesibilidad v3",
+            "name":"MATHIEU KESSLER",
+            "email":"mathieu.kessler@upct.es"
+         },
+         {
+            "domain":"aulavirtual.upct.es",
+            "course":"5092",
+            "activity":"12136",
+            "url":"aae1a3c65b1c4c87827dad00bc36f92b",
+            "user":"20377",
+            "percentage":"75.0",
+            "time_spent":"604.7660000324249",
+            "current_title":"Jasmine v3",
+            "name":"MATHIEU KESSLER",
+            "email":"mathieu.kessler@upct.es"
+         },
+         {
+            "domain":"aulavirtual.upct.es",
+            "course":"5092",
+            "activity":"12135",
+            "url":"c93ff8a30a444b0881319ceb8e07cb0c",
+            "user":"27134",
+            "percentage":"100.0",
+            "time_spent":"0.0",
+            "current_title":"Accesibilidad v3",
+            "name":"SILVIA CARRALERO NUÑO",
+            "email":"silvia.carralero@upct.es"
+         },
+         {
+            "domain":"aulavirtual.upct.es",
+            "course":"5092",
+            "activity":"12135",
+            "url":"c93ff8a30a444b0881319ceb8e07cb0c",
+            "user":"41720",
+            "percentage":"100.0",
+            "time_spent":"7195.090800046921",
+            "current_title":"Accesibilidad v3",
+            "name":"DANIEL PÉREZ, BERENGUER",
+            "email":"daniel.perez@upct.es"
+         }
+      ],
+      "video_viz":[
+         {
+            "domain":"aulavirtual.upct.es",
+            "course":"5092",
+            "activity":"12135",
+            "url":"c93ff8a30a444b0881319ceb8e07cb0c",
+            "user":"20377",
+            "element":"objetivos0r3c0e0",
+            "position":"0.0",
+            "viz":"1.0",
+            "name":"MATHIEU KESSLER",
+            "email":"mathieu.kessler@upct.es"
+         },
+         {
+            "domain":"aulavirtual.upct.es",
+            "course":"5092",
+            "activity":"12135",
+            "url":"c93ff8a30a444b0881319ceb8e07cb0c",
+            "user":"20377",
+            "element":"objetivos0r3c0e0",
+            "position":"10.0",
+            "viz":"0.0",
+            "name":"MATHIEU KESSLER",
+            "email":"mathieu.kessler@upct.es"
+         },
+         {
+            "domain":"aulavirtual.upct.es",
+            "course":"5092",
+            "activity":"12136",
+            "url":"aae1a3c65b1c4c87827dad00bc36f92b",
+            "user":"20377",
+            "element":"objetivos2r0c0e0",
+            "position":"94.0",
+            "viz":"1.0",
+            "name":"MATHIEU KESSLER",
+            "email":"mathieu.kessler@upct.es"
+         },
+         {
+            "domain":"aulavirtual.upct.es",
+            "course":"5092",
+            "activity":"12136",
+            "url":"aae1a3c65b1c4c87827dad00bc36f92b",
+            "user":"20377",
+            "element":"objetivos2r0c0e0",
+            "position":"108.0",
+            "viz":"0.0",
+            "name":"MATHIEU KESSLER",
+            "email":"mathieu.kessler@upct.es"
+         },
+         {
+            "domain":"aulavirtual.upct.es",
+            "course":"5092",
+            "activity":"12136",
+            "url":"aae1a3c65b1c4c87827dad00bc36f92b",
+            "user":"20377",
+            "element":"objetivos2r0c0e0",
+            "position":"212.0",
+            "viz":"1.0",
+            "name":"MATHIEU KESSLER",
+            "email":"mathieu.kessler@upct.es"
+         },
+         {
+            "domain":"aulavirtual.upct.es",
+            "course":"5092",
+            "activity":"12136",
+            "url":"aae1a3c65b1c4c87827dad00bc36f92b",
+            "user":"20377",
+            "element":"objetivos2r0c0e0",
+            "position":"226.0",
+            "viz":"0.0",
+            "name":"MATHIEU KESSLER",
+            "email":"mathieu.kessler@upct.es"
+         },
+         {
+            "domain":"aulavirtual.upct.es",
+            "course":"5092",
+            "activity":"12135",
+            "url":"c93ff8a30a444b0881319ceb8e07cb0c",
+            "user":"cohort",
+            "element":"objetivos0r3c0e0",
+            "position":"0.0",
+            "viz":"1.0",
+            "name":"All students",
+            "email":"All students"
+         },
+         {
+            "domain":"aulavirtual.upct.es",
+            "course":"5092",
+            "activity":"12135",
+            "url":"c93ff8a30a444b0881319ceb8e07cb0c",
+            "user":"cohort",
+            "element":"objetivos0r3c0e0",
+            "position":"10.0",
+            "viz":"0.0",
+            "name":"All students",
+            "email":"All students"
+         },
+         {
+            "domain":"aulavirtual.upct.es",
+            "course":"5092",
+            "activity":"12136",
+            "url":"aae1a3c65b1c4c87827dad00bc36f92b",
+            "user":"cohort",
+            "element":"objetivos2r0c0e0",
+            "position":"94.0",
+            "viz":"1.0",
+            "name":"All students",
+            "email":"All students"
+         },
+         {
+            "domain":"aulavirtual.upct.es",
+            "course":"5092",
+            "activity":"12136",
+            "url":"aae1a3c65b1c4c87827dad00bc36f92b",
+            "user":"cohort",
+            "element":"objetivos2r0c0e0",
+            "position":"108.0",
+            "viz":"0.0",
+            "name":"All students",
+            "email":"All students"
+         },
+         {
+            "domain":"aulavirtual.upct.es",
+            "course":"5092",
+            "activity":"12136",
+            "url":"aae1a3c65b1c4c87827dad00bc36f92b",
+            "user":"cohort",
+            "element":"objetivos2r0c0e0",
+            "position":"212.0",
+            "viz":"1.0",
+            "name":"All students",
+            "email":"All students"
+         },
+         {
+            "domain":"aulavirtual.upct.es",
+            "course":"5092",
+            "activity":"12136",
+            "url":"aae1a3c65b1c4c87827dad00bc36f92b",
+            "user":"cohort",
+            "element":"objetivos2r0c0e0",
+            "position":"226.0",
+            "viz":"0.0",
+            "name":"All students",
+            "email":"All students"
+         }
+      ],
+      "users":[
+         {
+            "domain":"aulavirtual.upct.es",
+            "course":"5092",
+            "user":"20377",
+            "name":"MATHIEU KESSLER",
+            "email":"mathieu.kessler@upct.es",
+            "profile":"Learner"
+         },
+         {
+            "domain":"aulavirtual.upct.es",
+            "course":"5092",
+            "user":"27134",
+            "name":"SILVIA CARRALERO NUÑO",
+            "email":"silvia.carralero@upct.es",
+            "profile":"Learner"
+         },
+         {
+            "domain":"aulavirtual.upct.es",
+            "course":"5092",
+            "user":"41720",
+            "name":"DANIEL PÉREZ, BERENGUER",
+            "email":"daniel.perez@upct.es",
+            "profile":"Instructor"
+         }
+      ]
+   },
+   "date_limit":"2021-09-17 10:52:23",
+   "insert_date":"2021-09-17 12:52:25"
+}
