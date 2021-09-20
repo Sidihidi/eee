@@ -1,0 +1,153 @@
+{
+    "_id": {
+      "$oid": "6145f8ad719ae2a028ec7f16"
+    },
+    "course": "5092",
+    "domain": "aulavirtual.upct.es",
+    "user": "27134",
+    "aggregate": {
+      "number_visited_units": {
+        "$numberInt": "3"
+      },
+      "number_users": {
+        "$numberInt": "3"
+      },
+      "visited_completed_units": [
+        {
+          "domain": "aulavirtual.upct.es",
+          "course": "5092",
+          "activity": "12135",
+          "url": "c93ff8a30a444b0881319ceb8e07cb0c",
+          "user": "27134",
+          "has_visited": "0",
+          "has_completed": "1",
+          "visitors": "2",
+          "finishers": "2",
+          "current_title": "Accesibilidad v3"
+        },
+        {
+          "domain": "aulavirtual.upct.es",
+          "course": "5092",
+          "activity": "12136",
+          "url": "aae1a3c65b1c4c87827dad00bc36f92b",
+          "user": "27134",
+          "has_visited": "0",
+          "has_completed": "0",
+          "visitors": "1",
+          "finishers": "0",
+          "current_title": "Jasmine v3"
+        },
+        {
+          "domain": "aulavirtual.upct.es",
+          "course": "5092",
+          "activity": "12155",
+          "url": "c93ff8a30a444b0881319ceb8e07cb0c",
+          "user": "27134",
+          "has_visited": "1",
+          "has_completed": "1",
+          "visitors": "2",
+          "finishers": "2",
+          "current_title": "Accesibilidad v4"
+        }
+      ],
+      "time_user_wide": [
+        {
+          "domain": "aulavirtual.upct.es",
+          "course": "5092",
+          "user": "27134",
+          "name": "SILVIA CARRALERO NUÑO",
+          "email": "silvia.carralero@upct.es",
+          "Accesibilidad v3": "0.0",
+          "Jasmine v3": "0.0",
+          "Accesibilidad v4": "151.37360000610352"
+        }
+      ],
+      "percentage_user_wide": [
+        {
+          "domain": "aulavirtual.upct.es",
+          "course": "5092",
+          "user": "27134",
+          "name": "SILVIA CARRALERO NUÑO",
+          "email": "silvia.carralero@upct.es",
+          "Accesibilidad v3": "100.0",
+          "Jasmine v3": "0",
+          "Accesibilidad v4": "100"
+        }
+      ],
+      "daily_effort": [
+        {
+          "domain": "aulavirtual.upct.es",
+          "course": "5092",
+          "user": "27134",
+          "day": "2021-09-17",
+          "time_spent": "151.37360000610352",
+          "name": "SILVIA CARRALERO NUÑO",
+          "email": "silvia.carralero@upct.es"
+        }
+      ],
+      "user_progress": [
+        {
+          "domain": "aulavirtual.upct.es",
+          "course": "5092",
+          "activity": "12135",
+          "url": "c93ff8a30a444b0881319ceb8e07cb0c",
+          "user": "27134",
+          "percentage": "100.0",
+          "time_spent": "0.0",
+          "current_title": "Accesibilidad v3",
+          "name": "SILVIA CARRALERO NUÑO",
+          "email": "silvia.carralero@upct.es"
+        },
+        {
+          "domain": "aulavirtual.upct.es",
+          "course": "5092",
+          "activity": "12155",
+          "url": "c93ff8a30a444b0881319ceb8e07cb0c",
+          "user": "27134",
+          "percentage": "100.0",
+          "time_spent": "151.37360000610352",
+          "current_title": "Accesibilidad v4",
+          "name": "SILVIA CARRALERO NUÑO",
+          "email": "silvia.carralero@upct.es"
+        }
+      ],
+      "video_viz": [
+        {
+          "domain": "aulavirtual.upct.es",
+          "course": "5092",
+          "activity": "12155",
+          "url": "c93ff8a30a444b0881319ceb8e07cb0c",
+          "user": "27134",
+          "element": "objetivos0r3c0e0",
+          "position": "0.0",
+          "viz": "1.0",
+          "name": "SILVIA CARRALERO NUÑO",
+          "email": "silvia.carralero@upct.es"
+        },
+        {
+          "domain": "aulavirtual.upct.es",
+          "course": "5092",
+          "activity": "12155",
+          "url": "c93ff8a30a444b0881319ceb8e07cb0c",
+          "user": "27134",
+          "element": "objetivos0r3c0e0",
+          "position": "64.0",
+          "viz": "0.0",
+          "name": "SILVIA CARRALERO NUÑO",
+          "email": "silvia.carralero@upct.es"
+        }
+      ],
+      "users": [
+        {
+          "domain": "aulavirtual.upct.es",
+          "course": "5092",
+          "user": "27134",
+          "name": "SILVIA CARRALERO NUÑO",
+          "email": "silvia.carralero@upct.es",
+          "profile": "Learner"
+        }
+      ]
+    },
+    "date_limit": "2021-09-18 14:33:21",
+    "insert_date": "2021-09-18 16:33:22"
+  }
