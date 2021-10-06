@@ -299,424 +299,284 @@
   ],
   "video_viz": [
     {
-      "domain": "aulavirtual.upct.es",
-      "course": "5092",
       "activity": "12135",
-      "url": "c93ff8a30a444b0881319ceb8e07cb0c",
-      "user": "27134",
-      "element": "objetivos0r3c0e0",
-      "position": "0.0",
-      "viz": "1.0",
-      "name": "SILVIA CARRALERO NUÑO",
-      "email": "silvia.carralero@upct.es",
       "current_title": "Accesibilidad v3",
-      "description": "Videos0r3c0e0/INDIe video"
+      "videos": [
+        {
+          "element": "objetivos0r3c0e0",
+          "description": "Videos0r3c0e0/INDIe video",
+          "users": [
+            {
+              "user": "27134",
+              "email": "silvia.carralero@upct.es",
+              "name": "SILVIA CARRALERO NUÑO",
+              "video_viz": [
+                {
+                  "position": "0.0",
+                  "viz": "1.0",
+                  "formatted_position": "00:00:00"
+                },
+                {
+                  "position": "50.0",
+                  "viz": "0.0",
+                  "formatted_position": "00:00:50"
+                },
+                {
+                  "position": "232.0",
+                  "viz": "1.0",
+                  "formatted_position": "00:03:52"
+                },
+                {
+                  "position": "240.0",
+                  "viz": "0.0",
+                  "formatted_position": "00:04:00"
+                }
+              ]
+            },
+            {
+              "user": "cohort",
+              "email": "All students",
+              "name": "All students",
+              "video_viz": [
+                {
+                  "position": "0.0",
+                  "viz": "1.0",
+                  "formatted_position": "00:00:00"
+                },
+                {
+                  "position": "50.0",
+                  "viz": "0.0",
+                  "formatted_position": "00:00:50"
+                },
+                {
+                  "position": "232.0",
+                  "viz": "1.0",
+                  "formatted_position": "00:03:52"
+                },
+                {
+                  "position": "240.0",
+                  "viz": "0.0",
+                  "formatted_position": "00:04:00"
+                }
+              ]
+            }
+          ]
+        }
+      ]
     },
     {
-      "domain": "aulavirtual.upct.es",
-      "course": "5092",
-      "activity": "12135",
-      "url": "c93ff8a30a444b0881319ceb8e07cb0c",
-      "user": "27134",
-      "element": "objetivos0r3c0e0",
-      "position": "50.0",
-      "viz": "0.0",
-      "name": "SILVIA CARRALERO NUÑO",
-      "email": "silvia.carralero@upct.es",
-      "current_title": "Accesibilidad v3",
-      "description": "Videos0r3c0e0/INDIe video"
-    },
-    {
-      "domain": "aulavirtual.upct.es",
-      "course": "5092",
-      "activity": "12135",
-      "url": "c93ff8a30a444b0881319ceb8e07cb0c",
-      "user": "27134",
-      "element": "objetivos0r3c0e0",
-      "position": "232.0",
-      "viz": "1.0",
-      "name": "SILVIA CARRALERO NUÑO",
-      "email": "silvia.carralero@upct.es",
-      "current_title": "Accesibilidad v3",
-      "description": "Videos0r3c0e0/INDIe video"
-    },
-    {
-      "domain": "aulavirtual.upct.es",
-      "course": "5092",
-      "activity": "12135",
-      "url": "c93ff8a30a444b0881319ceb8e07cb0c",
-      "user": "27134",
-      "element": "objetivos0r3c0e0",
-      "position": "240.0",
-      "viz": "0.0",
-      "name": "SILVIA CARRALERO NUÑO",
-      "email": "silvia.carralero@upct.es",
-      "current_title": "Accesibilidad v3",
-      "description": "Videos0r3c0e0/INDIe video"
-    },
-    {
-      "domain": "aulavirtual.upct.es",
-      "course": "5092",
-      "activity": "12135",
-      "url": "c93ff8a30a444b0881319ceb8e07cb0c",
-      "user": "cohort",
-      "element": "objetivos0r3c0e0",
-      "position": "0.0",
-      "viz": "1.0",
-      "name": "All students",
-      "email": "All students",
-      "current_title": "Accesibilidad v3",
-      "description": "Videos0r3c0e0/INDIe video"
-    },
-    {
-      "domain": "aulavirtual.upct.es",
-      "course": "5092",
-      "activity": "12135",
-      "url": "c93ff8a30a444b0881319ceb8e07cb0c",
-      "user": "cohort",
-      "element": "objetivos0r3c0e0",
-      "position": "50.0",
-      "viz": "0.0",
-      "name": "All students",
-      "email": "All students",
-      "current_title": "Accesibilidad v3",
-      "description": "Videos0r3c0e0/INDIe video"
-    },
-    {
-      "domain": "aulavirtual.upct.es",
-      "course": "5092",
-      "activity": "12135",
-      "url": "c93ff8a30a444b0881319ceb8e07cb0c",
-      "user": "cohort",
-      "element": "objetivos0r3c0e0",
-      "position": "232.0",
-      "viz": "1.0",
-      "name": "All students",
-      "email": "All students",
-      "current_title": "Accesibilidad v3",
-      "description": "Videos0r3c0e0/INDIe video"
-    },
-    {
-      "domain": "aulavirtual.upct.es",
-      "course": "5092",
-      "activity": "12135",
-      "url": "c93ff8a30a444b0881319ceb8e07cb0c",
-      "user": "cohort",
-      "element": "objetivos0r3c0e0",
-      "position": "240.0",
-      "viz": "0.0",
-      "name": "All students",
-      "email": "All students",
-      "current_title": "Accesibilidad v3",
-      "description": "Videos0r3c0e0/INDIe video"
-    },
-    {
-      "domain": "aulavirtual.upct.es",
-      "course": "5092",
       "activity": "12155",
-      "url": "c93ff8a30a444b0881319ceb8e07cb0c",
-      "user": "27134",
-      "element": "objetivos0r3c0e0",
-      "position": "0.0",
-      "viz": "1.0",
-      "name": "SILVIA CARRALERO NUÑO",
-      "email": "silvia.carralero@upct.es",
       "current_title": "Accesibilidad v4",
-      "description": "Videos0r3c0e0/INDIe video"
+      "videos": [
+        {
+          "element": "objetivos0r3c0e0",
+          "description": "Videos0r3c0e0/INDIe video",
+          "users": [
+            {
+              "user": "27134",
+              "email": "silvia.carralero@upct.es",
+              "name": "SILVIA CARRALERO NUÑO",
+              "video_viz": [
+                {
+                  "position": "0.0",
+                  "viz": "1.0",
+                  "formatted_position": "00:00:00"
+                },
+                {
+                  "position": "2.0",
+                  "viz": "0.0",
+                  "formatted_position": "00:00:02"
+                },
+                {
+                  "position": "228.0",
+                  "viz": "1.0",
+                  "formatted_position": "00:03:48"
+                },
+                {
+                  "position": "240.0",
+                  "viz": "0.0",
+                  "formatted_position": "00:04:00"
+                }
+              ]
+            },
+            {
+              "user": "cohort",
+              "email": "All students",
+              "name": "All students",
+              "video_viz": [
+                {
+                  "position": "0.0",
+                  "viz": "1.0",
+                  "formatted_position": "00:00:00"
+                },
+                {
+                  "position": "2.0",
+                  "viz": "0.0",
+                  "formatted_position": "00:00:02"
+                },
+                {
+                  "position": "228.0",
+                  "viz": "1.0",
+                  "formatted_position": "00:03:48"
+                },
+                {
+                  "position": "240.0",
+                  "viz": "0.0",
+                  "formatted_position": "00:04:00"
+                }
+              ]
+            }
+          ]
+        }
+      ]
     },
     {
-      "domain": "aulavirtual.upct.es",
-      "course": "5092",
-      "activity": "12155",
-      "url": "c93ff8a30a444b0881319ceb8e07cb0c",
-      "user": "27134",
-      "element": "objetivos0r3c0e0",
-      "position": "2.0",
-      "viz": "0.0",
-      "name": "SILVIA CARRALERO NUÑO",
-      "email": "silvia.carralero@upct.es",
-      "current_title": "Accesibilidad v4",
-      "description": "Videos0r3c0e0/INDIe video"
-    },
-    {
-      "domain": "aulavirtual.upct.es",
-      "course": "5092",
-      "activity": "12155",
-      "url": "c93ff8a30a444b0881319ceb8e07cb0c",
-      "user": "27134",
-      "element": "objetivos0r3c0e0",
-      "position": "228.0",
-      "viz": "1.0",
-      "name": "SILVIA CARRALERO NUÑO",
-      "email": "silvia.carralero@upct.es",
-      "current_title": "Accesibilidad v4",
-      "description": "Videos0r3c0e0/INDIe video"
-    },
-    {
-      "domain": "aulavirtual.upct.es",
-      "course": "5092",
-      "activity": "12155",
-      "url": "c93ff8a30a444b0881319ceb8e07cb0c",
-      "user": "27134",
-      "element": "objetivos0r3c0e0",
-      "position": "240.0",
-      "viz": "0.0",
-      "name": "SILVIA CARRALERO NUÑO",
-      "email": "silvia.carralero@upct.es",
-      "current_title": "Accesibilidad v4",
-      "description": "Videos0r3c0e0/INDIe video"
-    },
-    {
-      "domain": "aulavirtual.upct.es",
-      "course": "5092",
-      "activity": "12155",
-      "url": "c93ff8a30a444b0881319ceb8e07cb0c",
-      "user": "cohort",
-      "element": "objetivos0r3c0e0",
-      "position": "0.0",
-      "viz": "1.0",
-      "name": "All students",
-      "email": "All students",
-      "current_title": "Accesibilidad v4",
-      "description": "Videos0r3c0e0/INDIe video"
-    },
-    {
-      "domain": "aulavirtual.upct.es",
-      "course": "5092",
-      "activity": "12155",
-      "url": "c93ff8a30a444b0881319ceb8e07cb0c",
-      "user": "cohort",
-      "element": "objetivos0r3c0e0",
-      "position": "2.0",
-      "viz": "0.0",
-      "name": "All students",
-      "email": "All students",
-      "current_title": "Accesibilidad v4",
-      "description": "Videos0r3c0e0/INDIe video"
-    },
-    {
-      "domain": "aulavirtual.upct.es",
-      "course": "5092",
-      "activity": "12155",
-      "url": "c93ff8a30a444b0881319ceb8e07cb0c",
-      "user": "cohort",
-      "element": "objetivos0r3c0e0",
-      "position": "228.0",
-      "viz": "1.0",
-      "name": "All students",
-      "email": "All students",
-      "current_title": "Accesibilidad v4",
-      "description": "Videos0r3c0e0/INDIe video"
-    },
-    {
-      "domain": "aulavirtual.upct.es",
-      "course": "5092",
-      "activity": "12155",
-      "url": "c93ff8a30a444b0881319ceb8e07cb0c",
-      "user": "cohort",
-      "element": "objetivos0r3c0e0",
-      "position": "240.0",
-      "viz": "0.0",
-      "name": "All students",
-      "email": "All students",
-      "current_title": "Accesibilidad v4",
-      "description": "Videos0r3c0e0/INDIe video"
-    },
-    {
-      "domain": "aulavirtual.upct.es",
-      "course": "5092",
       "activity": "12195",
-      "url": "c93ff8a30a444b0881319ceb8e07cb0c",
-      "user": "27134",
-      "element": "objetivos0r3c0e0",
-      "position": "218.0",
-      "viz": "1.0",
-      "name": "SILVIA CARRALERO NUÑO",
-      "email": "silvia.carralero@upct.es",
       "current_title": "Accesibilidad v5",
-      "description": "Videos0r3c0e0/INDIe video"
+      "videos": [
+        {
+          "element": "objetivos0r3c0e0",
+          "description": "Videos0r3c0e0/INDIe video",
+          "users": [
+            {
+              "user": "27134",
+              "email": "silvia.carralero@upct.es",
+              "name": "SILVIA CARRALERO NUÑO",
+              "video_viz": [
+                {
+                  "position": "218.0",
+                  "viz": "1.0",
+                  "formatted_position": "00:03:38"
+                },
+                {
+                  "position": "240.0",
+                  "viz": "0.0",
+                  "formatted_position": "00:04:00"
+                }
+              ]
+            },
+            {
+              "user": "cohort",
+              "email": "All students",
+              "name": "All students",
+              "video_viz": [
+                {
+                  "position": "218.0",
+                  "viz": "1.0",
+                  "formatted_position": "00:03:38"
+                },
+                {
+                  "position": "240.0",
+                  "viz": "0.0",
+                  "formatted_position": "00:04:00"
+                }
+              ]
+            }
+          ]
+        }
+      ]
     },
     {
-      "domain": "aulavirtual.upct.es",
-      "course": "5092",
-      "activity": "12195",
-      "url": "c93ff8a30a444b0881319ceb8e07cb0c",
-      "user": "27134",
-      "element": "objetivos0r3c0e0",
-      "position": "240.0",
-      "viz": "0.0",
-      "name": "SILVIA CARRALERO NUÑO",
-      "email": "silvia.carralero@upct.es",
-      "current_title": "Accesibilidad v5",
-      "description": "Videos0r3c0e0/INDIe video"
-    },
-    {
-      "domain": "aulavirtual.upct.es",
-      "course": "5092",
-      "activity": "12195",
-      "url": "c93ff8a30a444b0881319ceb8e07cb0c",
-      "user": "cohort",
-      "element": "objetivos0r3c0e0",
-      "position": "218.0",
-      "viz": "1.0",
-      "name": "All students",
-      "email": "All students",
-      "current_title": "Accesibilidad v5",
-      "description": "Videos0r3c0e0/INDIe video"
-    },
-    {
-      "domain": "aulavirtual.upct.es",
-      "course": "5092",
-      "activity": "12195",
-      "url": "c93ff8a30a444b0881319ceb8e07cb0c",
-      "user": "cohort",
-      "element": "objetivos0r3c0e0",
-      "position": "240.0",
-      "viz": "0.0",
-      "name": "All students",
-      "email": "All students",
-      "current_title": "Accesibilidad v5",
-      "description": "Videos0r3c0e0/INDIe video"
-    },
-    {
-      "domain": "aulavirtual.upct.es",
-      "course": "5092",
       "activity": "12207",
-      "url": "c93ff8a30a444b0881319ceb8e07cb0c",
-      "user": "27134",
-      "element": "objetivos0r3c0e0",
-      "position": "0.0",
-      "viz": "2.0",
-      "name": "SILVIA CARRALERO NUÑO",
-      "email": "silvia.carralero@upct.es",
       "current_title": "Accesibilidad v6",
-      "description": "Videos0r3c0e0/INDIe video"
-    },
-    {
-      "domain": "aulavirtual.upct.es",
-      "course": "5092",
-      "activity": "12207",
-      "url": "c93ff8a30a444b0881319ceb8e07cb0c",
-      "user": "27134",
-      "element": "objetivos0r3c0e0",
-      "position": "2.0",
-      "viz": "1.0",
-      "name": "SILVIA CARRALERO NUÑO",
-      "email": "silvia.carralero@upct.es",
-      "current_title": "Accesibilidad v6",
-      "description": "Videos0r3c0e0/INDIe video"
-    },
-    {
-      "domain": "aulavirtual.upct.es",
-      "course": "5092",
-      "activity": "12207",
-      "url": "c93ff8a30a444b0881319ceb8e07cb0c",
-      "user": "27134",
-      "element": "objetivos0r3c0e0",
-      "position": "64.0",
-      "viz": "0.0",
-      "name": "SILVIA CARRALERO NUÑO",
-      "email": "silvia.carralero@upct.es",
-      "current_title": "Accesibilidad v6",
-      "description": "Videos0r3c0e0/INDIe video"
-    },
-    {
-      "domain": "aulavirtual.upct.es",
-      "course": "5092",
-      "activity": "12207",
-      "url": "c93ff8a30a444b0881319ceb8e07cb0c",
-      "user": "27134",
-      "element": "objetivos0r3c0e0",
-      "position": "212.0",
-      "viz": "1.0",
-      "name": "SILVIA CARRALERO NUÑO",
-      "email": "silvia.carralero@upct.es",
-      "current_title": "Accesibilidad v6",
-      "description": "Videos0r3c0e0/INDIe video"
-    },
-    {
-      "domain": "aulavirtual.upct.es",
-      "course": "5092",
-      "activity": "12207",
-      "url": "c93ff8a30a444b0881319ceb8e07cb0c",
-      "user": "27134",
-      "element": "objetivos0r3c0e0",
-      "position": "240.0",
-      "viz": "0.0",
-      "name": "SILVIA CARRALERO NUÑO",
-      "email": "silvia.carralero@upct.es",
-      "current_title": "Accesibilidad v6",
-      "description": "Videos0r3c0e0/INDIe video"
-    },
-    {
-      "domain": "aulavirtual.upct.es",
-      "course": "5092",
-      "activity": "12207",
-      "url": "c93ff8a30a444b0881319ceb8e07cb0c",
-      "user": "cohort",
-      "element": "objetivos0r3c0e0",
-      "position": "0.0",
-      "viz": "2.0",
-      "name": "All students",
-      "email": "All students",
-      "current_title": "Accesibilidad v6",
-      "description": "Videos0r3c0e0/INDIe video"
-    },
-    {
-      "domain": "aulavirtual.upct.es",
-      "course": "5092",
-      "activity": "12207",
-      "url": "c93ff8a30a444b0881319ceb8e07cb0c",
-      "user": "cohort",
-      "element": "objetivos0r3c0e0",
-      "position": "2.0",
-      "viz": "1.0",
-      "name": "All students",
-      "email": "All students",
-      "current_title": "Accesibilidad v6",
-      "description": "Videos0r3c0e0/INDIe video"
-    },
-    {
-      "domain": "aulavirtual.upct.es",
-      "course": "5092",
-      "activity": "12207",
-      "url": "c93ff8a30a444b0881319ceb8e07cb0c",
-      "user": "cohort",
-      "element": "objetivos0r3c0e0",
-      "position": "64.0",
-      "viz": "0.0",
-      "name": "All students",
-      "email": "All students",
-      "current_title": "Accesibilidad v6",
-      "description": "Videos0r3c0e0/INDIe video"
-    },
-    {
-      "domain": "aulavirtual.upct.es",
-      "course": "5092",
-      "activity": "12207",
-      "url": "c93ff8a30a444b0881319ceb8e07cb0c",
-      "user": "cohort",
-      "element": "objetivos0r3c0e0",
-      "position": "212.0",
-      "viz": "1.0",
-      "name": "All students",
-      "email": "All students",
-      "current_title": "Accesibilidad v6",
-      "description": "Videos0r3c0e0/INDIe video"
-    },
-    {
-      "domain": "aulavirtual.upct.es",
-      "course": "5092",
-      "activity": "12207",
-      "url": "c93ff8a30a444b0881319ceb8e07cb0c",
-      "user": "cohort",
-      "element": "objetivos0r3c0e0",
-      "position": "240.0",
-      "viz": "0.0",
-      "name": "All students",
-      "email": "All students",
-      "current_title": "Accesibilidad v6",
-      "description": "Videos0r3c0e0/INDIe video"
+      "videos": [
+        {
+          "element": "objetivos0r3c0e0",
+          "description": "Videos0r3c0e0/INDIe video",
+          "users": [
+            {
+              "user": "27134",
+              "email": "silvia.carralero@upct.es",
+              "name": "SILVIA CARRALERO NUÑO",
+              "video_viz": [
+                {
+                  "position": "0.0",
+                  "viz": "2.0",
+                  "formatted_position": "00:00:00"
+                },
+                {
+                  "position": "2.0",
+                  "viz": "1.0",
+                  "formatted_position": "00:00:02"
+                },
+                {
+                  "position": "64.0",
+                  "viz": "0.0",
+                  "formatted_position": "00:01:04"
+                },
+                {
+                  "position": "212.0",
+                  "viz": "1.0",
+                  "formatted_position": "00:03:32"
+                },
+                {
+                  "position": "240.0",
+                  "viz": "0.0",
+                  "formatted_position": "00:04:00"
+                }
+              ]
+            },
+            {
+              "user": "cohort",
+              "email": "All students",
+              "name": "All students",
+              "video_viz": [
+                {
+                  "position": "0.0",
+                  "viz": "2.0",
+                  "formatted_position": "00:00:00"
+                },
+                {
+                  "position": "2.0",
+                  "viz": "1.0",
+                  "formatted_position": "00:00:02"
+                },
+                {
+                  "position": "64.0",
+                  "viz": "0.0",
+                  "formatted_position": "00:01:04"
+                },
+                {
+                  "position": "212.0",
+                  "viz": "1.0",
+                  "formatted_position": "00:03:32"
+                },
+                {
+                  "position": "240.0",
+                  "viz": "0.0",
+                  "formatted_position": "00:04:00"
+                }
+              ]
+            }
+          ]
+        }
+      ]
     }
-  ],"users":[{"domain":"aulavirtual.upct.es","course":"5092","user":"20377","name":"MATHIEU KESSLER","email":"mathieu.kessler@upct.es","profile":"Learner"},{"domain":"aulavirtual.upct.es","course":"5092","user":"27134","name":"SILVIA CARRALERO NUÑO","email":"silvia.carralero@upct.es","profile":"Learner"},{"domain":"aulavirtual.upct.es","course":"5092","user":"41720","name":"DANIEL PÉREZ, BERENGUER","email":"daniel.perez@upct.es","profile":"Instructor"}]
+  ],
+  "users": [
+    {
+      "domain": "aulavirtual.upct.es",
+      "course": "5092",
+      "user": "20377",
+      "name": "MATHIEU KESSLER",
+      "email": "mathieu.kessler@upct.es",
+      "profile": "Learner"
+    },
+    {
+      "domain": "aulavirtual.upct.es",
+      "course": "5092",
+      "user": "27134",
+      "name": "SILVIA CARRALERO NUÑO",
+      "email": "silvia.carralero@upct.es",
+      "profile": "Learner"
+    },
+    {
+      "domain": "aulavirtual.upct.es",
+      "course": "5092",
+      "user": "41720",
+      "name": "DANIEL PÉREZ, BERENGUER",
+      "email": "daniel.perez@upct.es",
+      "profile": "Instructor"
+    }
+  ]
 }
