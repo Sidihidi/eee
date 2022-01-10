@@ -1,0 +1,32 @@
+{
+    "forma": [
+            { 
+                "url":"https://opencontent.upct.es/9b4cd4b2d547466a9db52d7a8df93000/7ef639f49618416aa26120e8f03e9335/",
+                "categoria":"Material De Referencia",
+                "titulo":"Citas y Referencias Bibliográficas",
+                "miniatura":"https://multimediarepository.blob.core.windows.net/imagecontainer/c9d9f299372f4a0daa3e05639472d4f1.jpg"
+            },
+            { 
+                "url":"https://opencontent.upct.es/8156d2256fce4a6abdeeb6880bba32a4/bdb96bce2cfd408db8baf01104eb0a76/",
+                "categoria":"Lenguaje De Programación",
+                "titulo":"Introducción a Visual Studio Code",
+                "miniatura":"https://multimediarepository.blob.core.windows.net/imagecontainer/d15f2dac14b04428a898f16e205f5bbb.png"
+            },{ 
+                "url":"https://opencontent.upct.es/3240eb3933be43129adf7ccb23f1fcda/55a2356a72b44ef2817f10e6ad963cc0/",
+                "categoria":"Material De Referencia",
+                "titulo":"Más Allá De La Propiedad Intelectual",
+                "miniatura":"https://multimediarepository.blob.core.windows.net/imagecontainer/d8a34f0356314084827743ecf031016b.jpg"
+            },{ 
+                "url":"https://opencontent.upct.es/627645e495064b6e96f7ce94cd2a2d78/4b3d488f156149c5979431673b6106d8/",
+                "categoria":"Aire",
+                "titulo":"Aire Ambiente: Aerobiología (REAREMUR)",
+                "miniatura":"https://multimediarepository.blob.core.windows.net/imagecontainer/a7365e2dfddf44488185ed3dbc3b14d7.jpg"
+            }
+      ,{ 
+                "url":"https://opencontent.upct.es/3240eb3933be43129adf7ccb23f1fcda/4a6d472072f8484891005cad326a8f34/",
+                "categoria":"Lenguaje De Programación",
+                "titulo":"Introducción Básica a Python, parte I",
+                "miniatura":"https://multimediarepository.blob.core.windows.net/imagecontainer/e98beb88565345ef89cdbe88a72db802.png"
+            }
+        ]
+}
